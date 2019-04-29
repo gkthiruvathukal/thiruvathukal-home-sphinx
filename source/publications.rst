@@ -127,7 +127,7 @@ Conference Papers
 
 .. index::
    cloud, computer vision, streaming
- 
+
 * Zohar Kapach, Andrew Ulmer, Daniel Merrick, Arshad Alikhan, Yung-Hsiang Lu, Anup Mohan,
   Ahmed S. Kaseb, and |George-K-Thiruvathukal|,
   *Cloud Resource Optimization for Processing Multiple Streams of Visual Data*,
@@ -137,7 +137,7 @@ Conference Papers
 
 .. index::
    object detection, network cameras, ambient lighting
- 
+
 * Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, |George-K-Thiruvathukal|,
   Yen-Kuang Chen, and Yang Lu,
   *Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions*,
@@ -177,16 +177,35 @@ Conference Papers
 
 .. 2017
 
+.. index::
+   presentation, markdown
+
+* Ronald I. Greenberg, and |George-K-Thiruvathukal|,
+  *Separating Markup from Text*,
+  Chicago Colloquium on Digital Humanities and Computer Science (DHCS),2017,
+  Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works,
+  https://ecommons.luc.edu/cs_facpubs/197/
+
+
+.. index::
+   distributed, pre-processing, supercomputers
+
 * Michael J. Lewis, |George-K-Thiruvathukal|, Venkatram Vishwanath, Michael E. Papka, and Andrew Johnson,
   *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*,
   In Proceedings of International Workshop on Semantic Big Data 2017 (SBD 2017) at ACM SIGMOD 2017,
   https://ecommons.luc.edu/cs_facpubs/139/
 
+.. index::
+   history, computer science
+
 * David B. Dennis and |George-K-Thiruvathukal|,
-  Computer Science and Cultural History: A Dialogue,
+  *Computer Science and Cultural History: A Dialogue*,
   CESTEMER Conference: Cultivating Ensembles in STEM Education and Research,
   2017,
   https://ecommons.luc.edu/history_facpubs/42/
+
+.. index::
+   machine learning, comparison, data sets
 
 * Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Mei-Ling Shyu,
   and Shu-Ching Chen,
@@ -228,7 +247,7 @@ Conference Papers
 
 
 * David Dennis, Konstantin Läufer, and |George-K-Thiruvathukal|,
-  *Initial experience in moving key academic department functions to social networking sites*, 
+  *Initial experience in moving key academic department functions to social networking sites*,
   6th International Conference on Software and Data Technologies (ICSOFT)
   July 2011,
   https://ecommons.luc.edu/cs_facpubs/36/
@@ -332,6 +351,19 @@ Journal Articles
   https://ecommons.luc.edu/cs_facpubs/217/
 
 .. index::
+   low-power, image, recgonition
+
+* Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan,
+  Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang,
+  Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu,
+  Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov,
+  |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo,
+  *2018 Low-Power Image Recognition Challenge*,
+  2018,
+  https://arxiv.org/abs/1810.01732
+  https://ecommons.luc.edu/cs_facpubs/204/
+
+.. index::
    machine learning, fossils, shape analysis
 
 * Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|,
@@ -339,6 +371,22 @@ Journal Articles
   Journal of Applied Statistics,
   2018,
   https://arxiv.org/abs/1802.05778
+
+.. index::
+   teaching, concurrent software
+
+* Konstantin Läufer and |George-K-Thiruvathukal|,
+  *Teaching Concurrent Software Design: A Case Study Using Android*,
+  2017,
+  https://arxiv.org/pdf/1705.02899.pdf
+
+.. index::
+   fossil, amazon turk
+
+* Gregory J. Matthews, |George-K-Thiruvathukal|, Maxwell P. Luetkemeier, Juliet K. Brophy
+  *Examining the use of Amazon’s Mechanical Turk for edge extraction of the occlusal surface of fossilized bovid teeth*,
+  2017,
+  https://doi.org/10.1371/journal.pone.0179757
 
 .. index::
    bioinformatics, HIV-1, phylogeny, software engineering
@@ -367,7 +415,7 @@ Magazine Articles
 
 .. index::
    Computing in Science and Engineering, 20th anniversary
- 
+
 * Francis Sullivan, Norman Chonacky, Isabel Beichl and |George-K-Thiruvathukal|,
   *Former CiSE EICs Reflect on the Magazines 20th Anniversary*,
   Computing in Science and Engineering,
@@ -423,7 +471,7 @@ Magazine Articles
 
 * |George-K-Thiruvathukal|,
   *How AI is bringing Hollywood to life*,
-  VentureBeat, December 9, 2016, 
+  VentureBeat, December 9, 2016,
   http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
@@ -460,9 +508,14 @@ ArXiv/Technical Reports
 
 * See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_.
 
- 
+
 Datasets
 ~~~~~~~~~~~
+
+* Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
+  *Neurocomputational cortical memory for spectro-temporal phonetic abstraction.*
+  Zenodo, 2019,
+  https://zenodo.org/record/2584864
 
 * Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto,
   *Datasets used to train and test the Cortical Spectro-Temporal Model (CSTM) (Version v1.0)*
