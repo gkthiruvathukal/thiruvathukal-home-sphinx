@@ -87,7 +87,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'peace.png',
     'github_user': 'gkthiruvathukal',
-    'github_repo': 'thiruvathukal-onepage',
+    'github_repo': 'thiruvathukal-home-sphinx',
     'extra_nav_links' : {
         'Site Index' : 'genindex.html'
     }
