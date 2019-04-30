@@ -87,8 +87,12 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'peace.png',
     'github_user': 'gkthiruvathukal',
-    'github_repo': 'thiruvathukal-onepage'
+    'github_repo': 'thiruvathukal-onepage',
+    'extra_nav_links' : {
+        'Site Index' : 'genindex.html'
+    }
 }
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
