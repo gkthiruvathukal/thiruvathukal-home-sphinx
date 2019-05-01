@@ -76,8 +76,8 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-#html_theme = 'alabaster'
 html_theme = 'sphinx_materialdesign_theme'
+html_theme = 'alabaster'
 
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -85,15 +85,6 @@ html_theme = 'sphinx_materialdesign_theme'
 # documentation.
 #
 # html_theme_options = {}
-
-#html_theme_options = {
-##    'logo': 'peace.png',
-#    'github_user': 'gkthiruvathukal',
-#    'github_repo': 'thiruvathukal-home-sphinx',
-#    'extra_nav_links' : {
-#        'Site Index' : 'genindex.html'
-#    }
-#}
 
 html_theme_options = {
     # Specify a list of menu in Header.
@@ -146,6 +137,14 @@ html_theme_options = {
     'show_footer': True
 }
 
+html_theme_options = {
+    'logo': 'peace.png',
+    'github_user': 'gkthiruvathukal',
+    'github_repo': 'thiruvathukal-home-sphinx',
+    'extra_nav_links' : {
+        'Site Index' : 'genindex.html'
+    }
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
