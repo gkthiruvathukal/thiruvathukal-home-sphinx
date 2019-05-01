@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '/home/gkt'
+project = 'George K. Thiruvathukal'
 copyright = '2019, George K. Thiruvathukal'
 author = 'George K. Thiruvathukal'
 
@@ -76,7 +76,9 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+#html_theme = 'alabaster'
+html_theme = 'sphinx_materialdesign_theme'
+
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -84,13 +86,64 @@ html_theme = 'alabaster'
 #
 # html_theme_options = {}
 
+#html_theme_options = {
+##    'logo': 'peace.png',
+#    'github_user': 'gkthiruvathukal',
+#    'github_repo': 'thiruvathukal-home-sphinx',
+#    'extra_nav_links' : {
+#        'Site Index' : 'genindex.html'
+#    }
+#}
+
 html_theme_options = {
-    'logo': 'peace.png',
-    'github_user': 'gkthiruvathukal',
-    'github_repo': 'thiruvathukal-home-sphinx',
-    'extra_nav_links' : {
-        'Site Index' : 'genindex.html'
-    }
+    # Specify a list of menu in Header.
+    # Tuples forms:
+    #  ('Name', 'external url or path of pages in the document', boolean, 'icon name')
+    #
+    # Third argument:
+    # True indicates an external link.
+    # False indicates path of pages in the document.
+    #
+    # Fourth argument:
+    # Specify the icon name.
+    # For details see link.
+    # https://material.io/icons/
+    'header_links' : [
+        ('Home', 'index', False, 'home'),
+        ("GitHub", "https://github.com/gkthiruvathukal", True, 'code'),
+        ("LinkedIn", "https://www.linkedin.com/in/gkthiruvathukal", True, 'link'),
+        ("Twitter", "https://twitter.com/gktheoretical", True, 'link'),
+        ("Loyola CS", "http://luc.edu/cs", True, 'link'),
+        ('Site Index', 'genindex', False, 'navigation'),
+    ],
+
+    # Customize css colors.
+    # For details see link.
+    # https://getmdl.io/customize/index.html
+    #
+    # Values: amber, blue, brown, cyan deep_orange, deep_purple, green, grey, indigo, light_blue,
+    #         light_green, lime, orange, pink, purple, red, teal, yellow(Default: indigo)
+    'primary_color': 'grey',
+    # Values: Same as primary_color. (Default: pink)
+    'accent_color': 'pink',
+
+    # Customize layout.
+    # For details see link.
+    # https://getmdl.io/components/index.html#layout-section
+    'fixed_drawer': True,
+    'fixed_header': True,
+    'header_waterfall': True,
+    'header_scroll': False,
+
+    # Render title in header.
+    # Values: True, False (Default: False)
+    'show_header_title': False,
+    # Render title in drawer.
+    # Values: True, False (Default: True)
+    'show_drawer_title': True,
+    # Render footer.
+    # Values: True, False (Default: True)
+    'show_footer': True
 }
 
 
