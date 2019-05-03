@@ -9,7 +9,7 @@ I earned the PhD and MS degrees in computer science from Illinois
 Institute of Technology in 1995 and 1990, respectively, and BA in
 computer science and physics (double major) with a mathematics minor
 from Lewis University in 1988. As a computer science major, I received
-the department's top computer science graduating student  award in 1998 and was inducted
+the department's top computer science graduating student award and was inducted
 into the `Sigma Pi Sigma <https://www.sigmapisigma.org>`__ Physics
 national honor society.
 
