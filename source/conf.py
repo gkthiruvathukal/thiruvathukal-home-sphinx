@@ -142,7 +142,13 @@ html_theme_options = {
     'github_user': 'gkthiruvathukal',
     'github_repo': 'thiruvathukal-home-sphinx',
     'extra_nav_links' : {
-        'Site Index' : 'genindex.html'
+        'Site Index' : 'genindex.html',
+        'Digital Library' : 'https://works.bepress.com/gkthiruvathukal',
+        'GitHub' : 'https://github.com/gkthiruvathukal',
+        'LinkedIn' : 'https://www.linkedin.com/in/gkthiruvathukal',
+        'Twitter' : 'https://twitter.com/gktheoretical',
+        'Loyola CS' : 'https://luc.edu/cs',
+        'Argonne ALCF' : 'https://alcf.anl.gov'
     }
 }
 

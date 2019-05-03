@@ -6,12 +6,16 @@
 Welcome
 ========
 
-Welcome to the home page of George K. Thiruvathukal, PhD, `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_
-and `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_. I also collaborate 
-with and lead software engineering for the CAM\ :superscript:`2` Project (`cam2project.net <https://cam2project.net>`_) at Purdue University.
+You've reached the home page for George K. Thiruvathukal, PhD.
 
-For more information about me and my work, please see the :doc:`about` page.
-See the :ref:`genindex` for a more topical view of this site.
+I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_ where I direct the `Software Systems Laboratory <https://ssl.cs.luc.edu/>`_ (site unveiling any day now).
+
+I'm also `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_ and
+collaborate and serve as the lead of software engineering on the CAM\ :superscript:`2` Project at `Purdue University in the ECE Department <https://cam2project.net>`_.
+
+My research and teaching interests include software engineering, distributed systems, high-performance computing, cyber-physical systems, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computer science. See :doc:`publications` if you are looking for any of my published work.
+
+For more information, see the :doc:`about` page.
 
 
 .. toctree::
