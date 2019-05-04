@@ -10,16 +10,18 @@ See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathuka
 Books
 ~~~~~
 
-.. index::
-   double: books; software engineering
-   double: books; research software
+.. list-table::
+   :widths: 10 30
+   :header-rows: 1
 
-* Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|,
-  Software Engineering for Science,
-  Chapman and Hall/CRC,
-  October 20, 2016,
-  `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_,
-  https://ecommons.luc.edu/cs_facpubs/128/
+   * - Topics
+     - Citation
+
+   * - :index:`software engineering, research software`
+     - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, Software Engineering for Science, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_,
+       
+       https://ecommons.luc.edu/cs_facpubs/128/
+
 
 .. index::
    double: books; digital humanities
