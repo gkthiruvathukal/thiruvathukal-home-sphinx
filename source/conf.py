@@ -141,6 +141,7 @@ html_theme_options = {
     'logo': 'peace.png',
     'github_user': 'gkthiruvathukal',
     'github_repo': 'thiruvathukal-home-sphinx',
+    'analytics_id' : 'UA-23507985-1',
     'extra_nav_links' : {
         'Site Index' : 'genindex.html',
         'Digital Library' : 'https://works.bepress.com/gkthiruvathukal',
