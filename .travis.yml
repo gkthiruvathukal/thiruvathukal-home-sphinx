@@ -18,6 +18,6 @@ addons:
     - latexmk
 script:
 - pip install -r requirements.txt
-- BOOK_VERSION=$(../get-current-version.sh) travis-sphinx build -s source
+- BOOK_VERSION=$(./get-current-version.sh) travis-sphinx build -s source
 after_success:
 - travis-sphinx deploy --cname thiruvathukal.com
