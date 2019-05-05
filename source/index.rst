@@ -25,6 +25,7 @@ For more information, see the :doc:`about` page.
    about.rst
    research.rst
    publications.rst
+   funding.rst
    community.rst
    media.rst
 
