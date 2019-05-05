@@ -10,92 +10,61 @@ See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathuka
 Books
 ~~~~~
 
+.. index::
+   double: books; software engineering
+   double: books; video games
+   double: books; history of computing
+   double: books; high-performance computing
+   double: books; Java
+   double: books; web programming
+   double: books; Python
+
 .. list-table::
    :widths: 10 30
-   :header-rows: 1
 
-   * - Topics
-     - Citation
+   * - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
+     - :index:`software engineering>`; :index:`research software`
 
-   * - :index:`software engineering, research software`
-     - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, Software Engineering for Science, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_,
-       
-       https://ecommons.luc.edu/cs_facpubs/128/
+   * - Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
+     - :index:`digital humanities`; :index:`Nintendo Wii`; :index:`gaming`; :index:`history of computing`; :index:`platform studies`
 
+   * - Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/
+     - :index:`research`; :index:`professional reference`; :index:`Java`; :index:`multithreading`
 
-.. index::
-   double: books; digital humanities
-   double: books; Nintendo Wii
-   double: books; gaming
-   double: books; history
-   double: books; platform studies
-
-* Steven E. Jones and |George-K-Thiruvathukal|,
-  Codename Revolution: The Nintendo Wii Platform,
-  MIT Press, Platform Studies Series,
-  February 2012,
-  `MIT Press Book Site <https://mitpress.mit.edu/books/codename-revolution>`_
+   * - |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002 
+     - :index:`web programming`; :index:`professional reference`; :index:`Python`; :index:`Linux`; :index:`MySQL`; :index:`Apache Web Server`
 
 .. index::
-   double: books; research
-   double: books; professional reference
-   double: books; Java
-   double: books; multithreading
-
-* Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*,
-  Prentice Hall PTR and Sun Microsystems Java Series,
-  2000,
-  https://ecommons.luc.edu/cs_facpubs/3/
-
-.. index::
-   double: books; web programming
-   double: books; professional reference
-   double: books; Python
-   double: books; Linux
-
-* |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee,
-  Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL,
-  Prentice Hall PTR,
-  2002
-
+   double: books; Introduction to Computer Science
+   double: books; Software Engineering for Machine Learning
+   double: books; Distributed Systems
+   double: books; Systems Handbook
+   double: books; Academic Programs
+   double: books; A Mini-History of Computing
 
 e-Books
 ~~~~~~~~
 
-.. index::
-   double: ebooks; teaching
-   double: ebooks; CS1
-   double: ebooks; introduction to computer science
-   single: C#
+.. list-table::
+   :widths: 10 30
 
-* Andrew N. Harrington and |George-K-Thiruvathukal|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_,
-  https://ecommons.luc.edu/cs_facpubs/74
+   * - Andrew N. Harrington and |George-K-Thiruvathukal|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_, https://ecommons.luc.edu/cs_facpubs/74
+     - :index:`CS1`, :index:`introduction to computer science`, :index:`C#`, :index:`COMP 170`
 
-.. index::
-   double: ebooks; teaching
-   double: ebooks; distributed systems
-   distributed systems (course), COMP 339, COMP 439
+   * - Yung-Hsiang Lu and |George-K-Thiruvathukal|, `Software Engineering for Machine Learning  <https://se4ml.org>`_
+     - :index:`software engineering`, :index:`machine learning`
 
-* |George-K-Thiruvathukal| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
+   * - |George-K-Thiruvathukal| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
+     - :index:`distributed systems`, :index:`COMP 339`, :index:`COMP 439`
 
-.. index::
-   double: ebooks; manuals
-   double: ebooks; systems
-   systems handbook
+   * - |George-K-Thiruvathukal| and Miao Ye, `Systems Handbook, Loyola University Chicago Computer Science <https://systemshandbook.cs.luc.edu>`_
+     - :index:`manuals`, :index:`systems handbook`
 
-* |George-K-Thiruvathukal| and Miao Ye, `Systems Handbook, Loyola University Chicago Computer Science <https://systemshandbook.cs.luc.edu>`_
+   * - |George-K-Thiruvathukal|, Editor, `Academic Programs, Loyola University Chicago Computer Science <https://academics.cs.luc.edu>`_
+     - :index:`academic programs`
 
-.. index::
-   academic programs, Loyola University Chicago
-
-* |George-K-Thiruvathukal|, Editor, `Academic Programs, Loyola University Chicago Computer Science <https://academics.cs.luc.edu>`_
-
-.. index::
-   double: books; digital humanities
-   double: books; computer history
-
-* |George-K-Thiruvathukal|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011,
-  https://ecommons.luc.edu/cs_facpubs/103/
+   * - |George-K-Thiruvathukal|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011, https://ecommons.luc.edu/cs_facpubs/103/
+     - :index:`history of computing`
 
 Conference Papers
 ~~~~~~~~~~~~~~~~~~
