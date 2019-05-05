@@ -235,134 +235,134 @@ Magazine Articles
    :widths: 25 15
 
    * - |George-K-Thiruvathukal|, *Cloudy with a Chance of Sunshine, or the Future of Magazine Publishing*, Computing in Science & Engineering, vol. 17, no. 6, pp. 4-5, Nov.-Dec. 2015, https://ecommons.luc.edu/cs_facpubs/124/
-     - publishing, future of publishing
+     - :index:`publishing`, :index:`future of publishing`
 
    * - Manish Parashar and |George-K-Thiruvathukal|, *Extreme Data [Guest editors' introduction]*, Computing in Science & Engineering, vol. 16, no. 4, pp. 8-10, July-Aug. 2014, https://ecommons.luc.edu/cs_facpubs/133/
-     - extreme scale data
+     - :index:`extreme scale data`
 
    * - |George-K-Thiruvathukal|, *What We Publish in CiSE*, Computing in Science & Engineering, vol. 16, no. 2, pp. 4-6, Mar.-Apr. 2014, https://ecommons.luc.edu/cs_facpubs/132/
-     - Computing in Science and Engineering, publishing, magazine scope
+     - :index:`Computing in Science and Engineering`, :index:`publishing`, :index:`magazine scope`
 
    * - |George-K-Thiruvathukal|, *What's in an Algorithm?*, Computing in Science & Engineering, vol. 15, no. 4, pp. 4-5, July-Aug. 2013, https://ecommons.luc.edu/cs_facpubs/130/
-     - algorithms
+     - :index:`algorithms`
 
    * - |George-K-Thiruvathukal| and Manish Parashar, *Cloud Computing [Guest editorial]*, Computing in Science & Engineering, vol. 15, no. 4, pp. 8-9, July-Aug. 2013, https://ecommons.luc.edu/cs_facpubs/131/
-     - cloud computing in science
+     - :index:`cloud computing in science`
 
    * - |George-K-Thiruvathukal|, *Productivity in the Cognitive Overload Era*, Computing in Science & Engineering, vol. 15, no. 3, pp. 4-5, May-June 2013, https://ecommons.luc.edu/cs_facpubs/136/
-     - productivity, cognitive overload
+     - :index:`productivity`, :index:`cognitive overload`
 
    * - |George-K-Thiruvathukal|, *Computational Science, Demystified...the Future, Revealed...and CiSE, 2013*, in Computing in Science & Engineering, vol. 15, no. 2, pp. 4-5, March-April 2013, https://ecommons.luc.edu/cs_facpubs/135/
-     - computational science explained
+     - :index:`computational science explained`
 
    * - |George-K-Thiruvathukal|, *Who Needs Tablets? We Do*, Computing in Science & Engineering, vol. 15, no. 1, pp. 4-6, Jan.-Feb. 2013, https://ecommons.luc.edu/cs_facpubs/134/
-     - publishing, future of publishing
+     - :index:`publishing`, :index:`future of publishing`
 
    * - Dejan S. Milojicic, Martin Arlitt, Dorée Duncan Seligmann, |George-K-Thiruvathukal|, Christian Timmerer, *Innovation Mashups: Academic Rigor Meets Social Networking Buzz*, Computer, vol. 45, no. 9, pp. 101-105, Sept. 2012, https://ecommons.luc.edu/cs_facpubs/72/
-     - mashuups, social networking, engagement
+     - :index:`mashuups`, :index:`social networking`, :index:`engagement`
 
    * - Konstantin Läufer, |George-K-Thiruvathukal|, David Dennis, *Moving Academic Department Functions to Social Networks and Clouds: Initial Experiences*, Computing in Science and Engineering, vol. 13, no. 5, pp. 84-89, Sep./Oct. 2011, https://ecommons.luc.edu/cs_facpubs/19/
-     - academic functions, clouds, social networks
+     - :index:`academic functions`, :index:`clouds`, :index:`social networks`
 
    * - |George-K-Thiruvathukal|, *Beyond CiSE and Back to the Future*, Computing in Science and Engineering, vol. 13, no. 3, pp. 4-5, May/June 2011, https://ecommons.luc.edu/cs_facpubs/18/
-     - future of CISE
+     - :index:`future of CISE`
 
    * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *RestFS: The Filesystem as a Connector Abstraction for Flexible Resource and Service Composition*, In Cloud Computing: Methodology, System, and Applications (edited by Lizhe Wang, Rajiv Ranjan, Jinjun Chen, Boualem Benatallah), CRC Press, Boca Raton, Florida, USA, September 2011.  https://ecommons.luc.edu/cs_facpubs/45/
-     - RestFS, filesystems, FUSE
+     - :index:`RestFS`, :index:`filesystems`, `FUSE`
 
    * - |George-K-Thiruvathukal|, *An Exceptionally Useful Exploration*, Computing in Science and Engineering, vol. 13, no. 1, pp. 5-8, Jan./Feb. 2011, https://ecommons.luc.edu/cs_facpubs/20/
-     - unit testing
+     - :index:`unit testing`
 
    * - |George-K-Thiruvathukal|, *Your Local Cloud-Enabled Library*, Computing in Science and Engineering, vol. 12, no. 4, pp. 5-6, July/Aug. 2010, https://ecommons.luc.edu/cs_facpubs/17/
-     - libraries, need for libraries
+     - :index:`libraries`, :index:`need for libraries`
 
    * - |George-K-Thiruvathukal|, K. Hinsen, K. Läufer and J. Kaylor, *Virtualization for Computational Scientists*, in Computing in Science & Engineering, vol. 12, no. 4, pp. 52-61, July-Aug. 2010, https://ecommons.luc.edu/cs_facpubs/16/
-     - virtualization
+     - :index:`virtualization`
 
    * - Konrad Hinsen, Konstantin Läufer, |George-K-Thiruvathukal|, *Essential Tools: Version Control Systems*, Computing in Science and Engineering, vol. 11, no. 6, pp. 84-91, Nov./Dec. 2009, https://ecommons.luc.edu/cs_facpubs/27/
-     - version control
+     - :index:`version control`
 
    * - |George-K-Thiruvathukal|, *Computational Thinking … and Doing*, Computing in Science and Engineering, vol. 11, no. 6, pp. 4, Nov./Dec. 2009, https://ecommons.luc.edu/cs_facpubs/26/
-     - computational thinking
+     - :index:`computational thinking`
 
    * - Konstantin Laufer and |George-K-Thiruvathukal|, *Scientific Programming: The Promises of Typed, Pure, and Lazy Functional Programming: Part II*, in Computing in Science & Engineering, vol. 11, no. 5, pp. 68-75, Sept.-Oct. 2009, https://ecommons.luc.edu/cs_facpubs/25/
-     - functional programming, typed functional programming, lazy functional programming
+     - :index:`functional programming`, :index:`typed functional programming, :index:`lazy functional programming`
 
    * - |George-K-Thiruvathukal|, *Introducing Computing Now*, Computing in Science and Engineering, vol. 11, no. 4, pp. 8-10, July/Aug. 2009, https://ecommons.luc.edu/cs_facpubs/24/
-     - Computing Now, member engagement
+     - :index:`Computing Now`, :index:`member engagement`
 
    * - Konstantin Läufer, |George-K-Thiruvathukal|, Ryohei Nishimura, Carlos Ramírez Martínez-Eiroa, *Putting a Slug to Work*, Computing in Science and Engineering, vol. 11, no. 2, pp. 62-68, Mar./Apr. 2009, https://ecommons.luc.edu/cs_facpubs/23/
-     - low-power computing, embedded computing, Slugs
+     - :index:`low-power computing`, :index:`embedded computing`, :index:`Slugs`
 
    * - Joe Kaylor, |George-K-Thiruvathukal|, *A Virtual Computing Laboratory*, Computing in Science and Engineering, vol. 10, no. 2, pp. 65-69, Mar./Apr. 2008, https://ecommons.luc.edu/cs_facpubs/22/
-     - virtualization, managing computing labs
+     - :index:`virtualization`, :index:`managing computing labs`
 
    * - Bill Feiereisen and |George-K-Thiruvathukal|, *At Issue*, Computing in Science and Engineering, vol. 10, no. 2, pp. 60-64, Mar./Apr. 2008, https://ecommons.luc.edu/cs_facpubs/13/
-     - debate, future of publishing
+     - :index:`debate`, :index:`future of publishing`
 
    * - |George-K-Thiruvathukal|, *Project Hosting: Expanding the Scientific Programmer's Toolbox*, Computing in Science and Engineering, vol. 9, no. 2, pp. 70-75, Mar./Apr. 2007, https://ecommons.luc.edu/cs_facpubs/34/
-     - hosting, project hosting
+     - :index:`hosting`, :index:`project hosting`
 
    * - |George-K-Thiruvathukal|, K. Laufer and B. Gonzalez, *Unit Testing Considered Useful*, in Computing in Science & Engineering, vol. 8, no. 6, pp. 76-87, Nov.-Dec. 2006, https://ecommons.luc.edu/cs_facpubs/33/
-     - unit testing
+     - :index:`unit testing`
 
    * - |George-K-Thiruvathukal|, *Home Networking*, Computing in Science and Engineering, vol. 8, no. 1, pp. 84-91, Jan./Feb. 2006, https://ecommons.luc.edu/cs_facpubs/32/
-     - home networking
+     - :index:`home networking`
 
    * - |George-K-Thiruvathukal|, *Guest Editors' Introduction: Cluster Computing*, Computing in Science and Engineering, vol. 7, no. 2, pp. 11-13, Mar./Apr. 2005, https://ecommons.luc.edu/cs_facpubs/47/
-     - cluster computing
+     - :index:`cluster computing`
 
    * - |George-K-Thiruvathukal|, *Gentoo Linux: The Next Generation of Linux*, Computing in Science and Engineering, vol. 6, no. 5, pp. 66-74, Sep./Oct. 2004, https://ecommons.luc.edu/cs_facpubs/31/
-     - Gentoo, Linux
+     - :index:`Gentoo`, :index:`Linux`
 
    * - |George-K-Thiruvathukal|, Konstantin Laufer, *Plone and Content Management*, Computing in Science and Engineering, vol. 6, no. 4, pp. 88-95, July/Aug. 2004, https://ecommons.luc.edu/cs_facpubs/30/
-     - content management
+     - :index:`content management`
 
    * - |George-K-Thiruvathukal| and K. Läufer, *Natural XML for data binding, processing, and persistence*, Computing in Science & Engineering, vol. 6, no. 2, pp. 86-92, Mar. 2004, https://ecommons.luc.edu/cs_facpubs/9/
-     - XML framework, Natural XML
+     - :index:`XML framework`, :index:`Natural XML`
 
    * - |George-K-Thiruvathukal|, *XML in Computational Science*, Computing in Science and Engineering, vol. 6, no. 1, pp. 74-80, 2004, https://ecommons.luc.edu/cs_facpubs/10/
-     - XML
+     - :index:`XML`
 
    * - |George-K-Thiruvathukal|, *Java at Middle Age: Enabling Java for Computational Science*, Computing in Science and Engineering, vol. 4, no. 1, pp. 74-84, Jan./Feb. 2002, https://ecommons.luc.edu/cs_facpubs/46/
-     - Java, computational science
+     - :index:`Java`, :index:`computational science`
 
 
    * - Yung-Hsiang Lu, |George-K-Thiruvathukal|, Ahmed S. Kaseb; Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, and Minghao Guo, *See the World through Network Cameras*, IEEE Computer Magazine *(to appear)*, 2019, https://ecommons.luc.edu/cs_facpubs/215/
-     - computer vision, machine learning, network cameras
+     - :index:`computer vision`, :index:`machine learning`, :index:`network cameras`
 
    * - Francis Sullivan, Norman Chonacky, Isabel Beichl and |George-K-Thiruvathukal|, *Former CiSE EICs Reflect on the Magazines 20th Anniversary*, Computing in Science and Engineering, vol. 20, no. 1, pp. 3-7, January/February 2018, https://ecommons.luc.edu/cs_facpubs/191/
-     - Computing in Science and Engineering, 20th anniversary
+     - :index:`Computing in Science and Engineering`, :index:`20th anniversary`
 
    * - Lorena A. Barba and |George-K-Thiruvathukal|, *Reproducible Research for Computing in Science & Engineering*, Computing in Science & Engineering, vol. 19, no. 6, pp. 85-87, November/December 2017, https://ecommons.luc.edu/cs_facpubs/188/
-     - reproducible research
+     - :index:`reproducible research`
 
    * - George F. Hurlburt, |George-K-Thiruvathukal| and Maria R. Lee, *The Graph Database: Jack of All Trades or Just Not SQL?*, IEEE IT Professional, vol. 19, no. 6, pp. 21-25, November/December 2017, https://ecommons.luc.edu/cs_facpubs/187/
-     - graph databases, NoSQL
+     - :index:`graph databases`, :index:`NoSQL`
 
    * - Tiffany Barnes, Jamie Payton, |George-K-Thiruvathukal|, Kristy E. Boyer and Jeffrey Forbes, *Guest Editors' Introduction: Research on Equity and Sustained Participation in Engineering, Computing, and Technology*, Computing in Science & Engineering, vol. 18, no. 2, pp. 6-8, Mar.-Apr. 2016, https://ecommons.luc.edu/cs_facpubs/122/
-     - broadening participation, RESPECT conference
+     - :index:`broadening participation`, :index:`RESPECT conference`
 
    * - Tiffany Barnes, Jamie Payton, |George-K-Thiruvathukal|, Kristy E. Boyer and Jeffrey Forbes, *Best of RESPECT, Part 2*, Computing in Science & Engineering, vol. 18, no. 3, pp. 11-13, May-June 2016, https://ecommons.luc.edu/cs_facpubs/125/
-     - broadening participation, RESPECT conference
+     - :index:`broadening participation`, :index:`RESPECT conference`
 
    * - Tiffany Barnes and |George-K-Thiruvathukal|, The Need for Research in Broadening Participation, Communications of the ACM, Vol. 59 No. 3, Pages 33-34, https://ecommons.luc.edu/cs_facpubs/129/
-     - viewpoint, broadening participation
+     - :index:`viewpoint`, :index:`broadening participation`
 
    * - |George-K-Thiruvathukal|, *Beyond Pythagoras*, EdTech Digest, December 16, 2016, https://edtechdigest.wordpress.com/2016/12/16/beyond-pythagoras/
-     - Pythagoras
+     - :index:`Pythagoras`
 
    * - |George-K-Thiruvathukal|, *El Fin*, Computing in Science & Engineering, vol. 18, no. 6, pp. 4-6, Nov.-Dec. 2016., https://ecommons.luc.edu/cs_facpubs/123/
-     - my last issue as EIC of CISE
+     - :index:`my last issue as EIC of CISE`
 
-   * - |George-K-Thiruvathukal|, *How AI is bringing Hollywood to life*, VentureBeat, December 9, 2016, http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
-     - AI, Hollywood
+   * - |George-K-Thiruvathukal|, *How AI is bringing Hollywood to life*, VentureBeat, December 9, 2016, https://ecommons.luc.edu/cs_facpubs/120/
+     - :index:`AI`, :index:`Hollywood`
 
-   * - |George-K-Thiruvathukal|, *Novel Architectures and Accelerators, Computing Now*, http://www.computer.org/portal/web/computingnow/archive/february2011
-     - novel architectures, accelerators
+   * - |George-K-Thiruvathukal|, *Novel Architectures and Accelerators, Computing Now*, https://ecommons.luc.edu/cs_facpubs/54/
+     - :index:`novel architectures`, :index:`accelerators`
 
-   * - |George-K-Thiruvathukal|, *Web 2.0 Publishing and Happy 1.0, Computing Now!*, http://www.computer.org/portal/web/computingnow/archive/may2009
-     - Computing Now, member engagement
+   * - |George-K-Thiruvathukal|, *Web 2.0 Publishing and Happy 1.0, Computing Now!*, https://ecommons.luc.edu/cs_facpubs/55/
+     - :index:`Computing Now`, :index:`member engagement`
 
 Workshop / Short Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -397,49 +397,45 @@ ArXiv/Technical Reports
    :widths: 25 15
 
    * - Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo, *2018 Low-Power Image Recognition Challenge*, 2018, https://arxiv.org/abs/1810.01732 https://ecommons.luc.edu/cs_facpubs/204/
-     - low-power, image recognition, computer vision
+     - :index:`low-power`, :index:`image recognition`, :index:`computer vision`
 
    * - Konstantin Läufer, John O'Sullivan, and |George-K-Thiruvathukal|, *Auto-generated Spies Increase Test Maintainability*, https://arxiv.org/abs/1808.09630
-     - testing, mocking, spies, testing complexity, test maintainability
+     - :index:`testing`, :index:`mocking`, :index:`spies`, :index:`testing complexity`, :index:`test maintainability`
 
    * - |George-K-Thiruvathukal|, Ronald I. Greenberg, and David Garcia, *Understanding Turning Radius and Driving in Convex Polygon Paths in Introductory Robotics*, https://ecommons.luc.edu/cs_facpubs/202/, 
-     - turning radius, high-school robotics
+     - :index:`turning radius`, :index:`high-school robotics`
 
 
    * - |George-K-Thiruvathukal|, Shilpika, Nicholas J. Hayward, Konstantin Läufer, *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*, https://arxiv.org/abs/1804.02053
-     - software quality, software metrics
+     - :index:`software quality`, :index:`software metrics`
 
 
    * - |George-K-Thiruvathukal|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath, *A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers*, https://arxiv.org/abs/1904.11812
-     - Apache Spark, benchmarking
+     - :index:`Apache Spark`, :index:`benchmarking`
 
 
-   * - Linde, Sebastian and |George-K-Thiruvathukal|, *Collaboration and Health Care Diagnostics: an Agent Based Model Simulation (2012)*, Computer Science: Faculty Publications & Other Works. Paper 63, http://ecommons.luc.edu/cs_facpubs/63
-     - agent-based modeling, ABM, healthcare
+   * - Sebastian Linde and |George-K-Thiruvathukal|, *Collaboration and Health Care Diagnostics: an Agent Based Model Simulation (2012)*, Computer Science: Faculty Publications & Other Works. Paper 63, http://ecommons.luc.edu/cs_facpubs/63
+     - :index:`agent-based modeling`, :index:`ABM`, :index:`healthcare`
 
 
-   * - |George-K-Thiruvathukal|, *The Education Issue*, Guest Editor Introduction, Computing Now, IEEE Computer Society, http://www.computer.org/portal/web/computingnow/archive/february2013
-     - education
+   * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *Naked Object File System (NOFS): A Framework to Expose an Object-Oriented Domain Model as a File System*, May 2010, https://ecommons.luc.edu/cs_facpubs/6/
+     - :index:`naked objects`, :index:`NOFS`, :index:`FUSE`
 
 
-   * - J\. Kaylor, K. Läufer, and |George-K-Thiruvathukal|, *Naked Object File System (NOFS): A Framework to Expose an Object-Oriented Domain Model as a File System*, May 2010, https://ecommons.luc.edu/cs_facpubs/6/
-     - naked objects, NOFS, FUSE
-
-
-   * - Läufer, Konstantin; |George-K-Thiruvathukal|; and Elrad, Tzilla.  *Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience*, Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience (2003).  Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works.  https://ecommons.luc.edu/cs_facpubs/4/
-     - AOP, aspect-oriented programming, AOSD, aspect-oriented software development
+   * - Konstantin Läufer, |George-K-Thiruvathukal|, and Tzilla Elrad, *Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience*, Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience (2003), https://ecommons.luc.edu/cs_facpubs/4/
+     - :index:`AOP`, :index:`aspect-oriented programming`, :index:`AOSD`, :index:`aspect-oriented software development`
 
 
    * - Läufer, Konstantin and |George-K-Thiruvathukal|, *The Extreme Software Development Series: An Open Curricular Framework for Applied Capstone Courses*, Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works, 2003, https://ecommons.luc.edu/cs_facpubs/5/
-     - extreme software development series, agile, capstone courses, curriculum
+     - :index:`extreme software development series`, :index:`agile`, :index:`capstone courses`, :index:`curriculum`
 
 
    * - |George-K-Thiruvathukal| (editor), *Java Grande Report: Making Java Work for High-End Computing*, http://www.javagrande.org
-     - Java Grande, Java and High-End Computing
+     - :index:`Java Grande`, :index:`Java and High-End Computing`
 
 
    * - |George-K-Thiruvathukal| and Ufuk Verun, *Apt Compiler Toolkit*, http://github.com/gkthiruvathukal/apt
-     - data structures, parsing tools
+     - :index:`data structures`, :index:`C`, :index:`parsing tools`
 
 Datasets
 ~~~~~~~~~~~
@@ -448,14 +444,14 @@ Datasets
    :widths: 25 15
 
    * - Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto, *Neurocomputational cortical memory for spectro-temporal phonetic abstraction.* Zenodo, 2019, https://zenodo.org/record/2584864
-     - neurocomputing
+     - :index:`neurocomputing`
 
    * - Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto, *Datasets used to train and test the Cortical Spectro-Temporal Model (CSTM) (Version v1.0)* Zenodo, 2019, http://doi.org/10.5281/zenodo.2576130
-     - neurocomputing, phonetics dataset
+     - neurocomputing, :index:`phonetics dataset`
 
    * - Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto, *neurophon/neurophon: Release for PLOS submission (Version v1.0)*, Zenodo, 2019, http://doi.org/10.5281/zenodo.2580396
-     - neurocomputing, phonetics
+     - neurocomputing, :index:`cortical model`
 
    * - Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto, *Experimental Results and Appendices: Cortical Spectro-Temporal Model (CSTM) [Data set]*, Zenodo, 2019, http://doi.org/10.5281/zenodo.2581550
-     - neurocomputing, phonetics, experimental results
+     - neurocomputing, phonetics, :index:`phonetic classification results`
 
