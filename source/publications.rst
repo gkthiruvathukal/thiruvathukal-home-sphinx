@@ -186,13 +186,13 @@ Conference Papers
      - :index:`actors`, :index:`enhanced actors`, :index:`object-oriented parallel programming`
 
    * - William T. O'Connell, |George-K-Thiruvathukal|, and Thomas W. Christopher, *A generic modeling environment for heterogeneous parallel and distributed computing*, In International Conference on Advanced Science and Technology 1994 (ICAST 1994), AT&T Bell Laboratories, 1994.  https://ecommons.luc.edu/cs_facpubs/43/
-     - :index:`hetrogeneous computing`, :index:`parallel processing`, :index:`distributed systems`
+     - :index:`heterogeneous computing`, :index:`parallel processing`, :index:`distributed systems`
 
    * - William T. O'Connell, |George-K-Thiruvathukal|, and Thomas W. Christopher, *Distributed Memo: Heterogeneously concurrent programming with a shared directory of unordered queues*, In Sixth ISMM/IASTED Conference on Parallel and Distributed Systems, 1994.  https://ecommons.luc.edu/cs_facpubs/44/
-     - :index:`hetrogeneous computing`, :index:`parallel processing`, :index:`distributed systems`, :index:`Memo system`, :index:`Distributed Memo system`
+     - :index:`heterogeneous computing`, :index:`parallel processing`, :index:`distributed systems`, :index:`Memo system`, :index:`Distributed Memo system`
 
    * - William T. O'Connell, |George-K-Thiruvathukal|, and Thoas W. Christopher, *Distributed Memo: A Heterogeneously Distributed and Parallel Software Development Environment*, In International Conference on Parallel Processing, 1994.  https://ecommons.luc.edu/cs_facpubs/42/
-     - :index:`hetrogeneous computing`, :index:`parallel processing`, :index:`distributed systems`, :index:`Memo system`, :index:`Distributed Memo system`
+     - :index:`heterogeneous computing`, :index:`parallel processing`, :index:`distributed systems`, :index:`Memo system`, :index:`Distributed Memo system`
 
    * - |George-K-Thiruvathukal| and Thomas W. Christopher, *A simulation of demand-driven dataflow: translation from Lucid into MDC language*, pp. 634-637, Fifth International Parallel Processing Symposium, 1991.  https://ecommons.luc.edu/cs_facpubs/51/
      - :index:`dataflow`, :index:`Lucid`, :index:`Message Driven Computing`
