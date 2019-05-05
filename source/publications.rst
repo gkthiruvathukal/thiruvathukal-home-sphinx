@@ -52,6 +52,9 @@ e-Books / Documentation
    * - |George-K-Thiruvathukal|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011, https://ecommons.luc.edu/cs_facpubs/103/
      - :index:`history of computing`
 
+   * - Pamela L. Caughie, Nicholas J. Hayward, Mark. Hussey, Peter L. Shillingsburg, and |George-K-Thiruvathukal|, eds, *Woolf Online*, Web. http://www.woolfonline.com, 2013
+     - :index:`Woolf Online`, :index:`collaborative scholarship`, :index:`textual studies`
+
 Conference Papers
 ~~~~~~~~~~~~~~~~~~
 
@@ -86,17 +89,11 @@ Conference Papers
    * - Ronald I. Greenberg, and |George-K-Thiruvathukal|, *Separating Markup from Text*, Chicago Colloquium on Digital Humanities and Computer Science (DHCS),2017, Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works, https://ecommons.luc.edu/cs_facpubs/197/
      - :index:`presentation`, :index:`markdown`
 
-   * - Michael J. Lewis, |George-K-Thiruvathukal|, Venkatram Vishwanath, Michael E. Papka, and Andrew Johnson, *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*, In Proceedings of International Workshop on Semantic Big Data 2017 (SBD 2017) at ACM SIGMOD 2017, https://ecommons.luc.edu/cs_facpubs/139/
-     - :index:`distributed systems`, :index:`graphs`, :index:`pre-processing`, :index:`supercomputers`
-
    * - David B. Dennis and |George-K-Thiruvathukal|, *Computer Science and Cultural History: A Dialogue*, CESTEMER Conference: Cultivating Ensembles in STEM Education and Research, 2017, https://ecommons.luc.edu/history_facpubs/42/
      - :index:`history`, :index:`computer science`
 
    * - Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Mei-Ling Shyu, and Shu-Ching Chen, *Comparison of Visual Datasets for Machine Learning*, IEEE Conference on Information Reuse and Integration 2017, https://ecommons.luc.edu/cs_facpubs/148/
      - :index:`machine learning`, :index:`comparison`, :index:`data sets`
-
-   * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *RestFS: Resources and Services are Filesystems, Too*, Proceedings of Second International Workshop on RESTful Design Hyderabad, India, https://ecommons.luc.edu/cs_facpubs/15/
-     - :index:`RestFS`, :index:`FUSE`, :index:`filesystems`
 
    * - |George-K-Thiruvathukal|, Shilpika, Nicholas Hayward, Saulo Aguiar, and Konstantin Läufer, *Towards Sustainable Digital Humanities Software*, Chicago Colloquium on Digital Humanities and Computer Science, 2015, https://ecommons.luc.edu/cs_facpubs/126/
      - :index:`digital humanities`
@@ -133,6 +130,9 @@ Conference Papers
 
    * - David Dennis, Konstantin Läufer, and |George-K-Thiruvathukal|, *Initial experience in moving key academic department functions to social networking sites*, 6th International Conference on Software and Data Technologies (ICSOFT) July 2011, https://ecommons.luc.edu/cs_facpubs/36/
      - :index:`cloud computing`, :index:`social networking`, :index:`IT`
+
+   * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *Simplifying domain modeling and memory management in user-mode filesystems with the NOFS framework*, In Proc. 2010 IEEE Intl. Conf. on Electro/Information Technology (EIT), Indianapolis, Indiana, May 2012, https://ecommons.luc.edu/cs_facpubs/62/
+     - :index:`naked objects`, :index:`filesystems`, :index:`frameworks`
 
    * - Jones, Steven E., Peter Shillingsburg, and |George-K-Thiruvathukal|, *E-Carrel: An Environment for Collaborative Textual Scholarship*, Journal of the Chicago Colloquium on Digital Humanities and Computer Science, 1:2, June 16, 2010, https://ecommons.luc.edu/cs_facpubs/1/
      - :index:`HRIT`, :index:`E-Carrel`, :index:`collaborative scholarship`
@@ -203,62 +203,36 @@ Conference Papers
 Journal Articles
 ~~~~~~~~~~~~~~~~~~~~
 
+.. list-table::
+   :widths: 25 15
 
-* Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan,
-  Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu,
-  Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee,
-  Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park,
-  Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang,
-  Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities,
-  IEEE Journal on Emerging and Selected Topics in Circuits and Systems,
-  https://arxiv.org/abs/1904.07714,
-  https://ecommons.luc.edu/cs_facpubs/217/
+   * - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee, Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, https://arxiv.org/abs/1904.07714, https://ecommons.luc.edu/cs_facpubs/217/
+     - :index:`low-power`, :index:`image recgonition`
 
-.. index::
-   low-power, image, recgonition
+   * - Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|, *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*, Journal of Applied Statistics, 2018, https://arxiv.org/abs/1802.05778
+     - :index:`classification`, :index:`fossils`, :index:`machine learning`
 
-* Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan,
-  Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang,
-  Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu,
-  Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov,
-  |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo,
-  *2018 Low-Power Image Recognition Challenge*,
-  2018,
-  https://arxiv.org/abs/1810.01732
-  https://ecommons.luc.edu/cs_facpubs/204/
+   * - Konstantin Läufer and |George-K-Thiruvathukal|, *Teaching Concurrent Software Design: A Case Study Using Android*, 2017, https://arxiv.org/pdf/1705.02899.pdf
+     - :index:`teaching`, :index:`concurrent software`
 
-.. index::
-   machine learning, fossils, shape analysis
+   * - Gregory J. Matthews, |George-K-Thiruvathukal|, Maxwell P. Luetkemeier, Juliet K. Brophy *Examining the use of Amazon’s Mechanical Turk for edge extraction of the occlusal surface of fossilized bovid teeth*, 2017, https://doi.org/10.1371/journal.pone.0179757
+     - :index:`classification`, :index:`fossils`, :index:`machine learning`, :index:`crowdsourcing`, :index:`Mechanical Turk`
 
-* Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|,
-  *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*,
-  Journal of Applied Statistics,
-  2018,
-  https://arxiv.org/abs/1802.05778
+   * - Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti, *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*, Evolutionary Bioinformatics 2016:12 23-27, https://ecommons.luc.edu/cs_facpubs/127/
+     - :index:`bioinformatics`, :index:`HIV-1`, :index:`phylogeny`, :index:`software engineering`
 
-.. index::
-   teaching, concurrent software
+   * - Ian Foster, Gregor von Laszewski, |George-K-Thiruvathukal|, and Brian Toonen, *A computational framework for telemedicine*, Future Generation Computing Systems, Elsevier, 14(1-2):109-123, June 1998, https://ecommons.luc.edu/cs_facpubs/41/
+     - :index:`grid computing`, :index:`telemedicine`
 
-* Konstantin Läufer and |George-K-Thiruvathukal|,
-  *Teaching Concurrent Software Design: A Case Study Using Android*,
-  2017,
-  https://arxiv.org/pdf/1705.02899.pdf
+   * - Ian T. Foster, Jonathan Geisler, William Gropp, Nick Karonis, Ewing Lusk, |George-K-Thiruvathukal|, and Steve Tuecke, *A Wide-Area implementation of the message passing interface*, Parallel Computing, 24(12):1735{1749, 1998, https://ecommons.luc.edu/cs_facpubs/38/
+     - :index:`grid computing`, :index:`MPI`, :index:`Message Passing Interface`
 
-.. index::
-   fossil, amazon turk
+   * - Ian T. Foster, |George-K-Thiruvathukal|, and Steve Tuecke, *Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system*, Concurrency: Practice and Experience, vol. 9, no. 6, pp. 465-475, Jun. 1997, https://ecommons.luc.edu/cs_facpubs/8/
 
-* Gregory J. Matthews, |George-K-Thiruvathukal|, Maxwell P. Luetkemeier, Juliet K. Brophy
-  *Examining the use of Amazon’s Mechanical Turk for edge extraction of the occlusal surface of fossilized bovid teeth*,
-  2017,
-  https://doi.org/10.1371/journal.pone.0179757
+     - :index:`grid computing`, :index:`Java`
 
-.. index::
-   bioinformatics, HIV-1, phylogeny, software engineering
-
-* Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti,
-  *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*,
-  Evolutionary Bioinformatics 2016:12 23-27,
-  https://ecommons.luc.edu/cs_facpubs/127/
+Magazine Articles
+~~~~~~~~~~~~~~~~~~~
 
 .. index::
    publishing
@@ -288,15 +262,6 @@ Journal Articles
   https://ecommons.luc.edu/cs_facpubs/132/
 
 .. index::
-   Woolf Online, collaborative scholarship, textual studies
-
-*  Pamela L. Caughie, Nicholas J. Hayward, Mark. Hussey,
-   Peter L. Shillingsburg, and |George-K-Thiruvathukal|,
-   eds, *Woolf Online*,
-   Web. http://www.woolfonline.com,
-   2013
-
-.. index::
    algorithms
 
 * |George-K-Thiruvathukal|,
@@ -304,14 +269,6 @@ Journal Articles
   Computing in Science & Engineering, vol. 15, no. 4, pp. 4-5,
   July-Aug. 2013,
   https://ecommons.luc.edu/cs_facpubs/130/
-
-.. index::
-   software engineering, scientific computing
-
-* Jeffrey C. Carver and |George-K-Thiruvathukal|,
-  *Software Engineering Need not be Difficult*,
-  Workshop on Sustainable Software for Science: Practice and Experiences, SuperComputing Conference 2013,
-  Available on figshare, http://dx.doi.org/10.6084/m9.figshare.830442
 
 .. index::
    cloud computing in science
@@ -357,23 +314,6 @@ Journal Articles
   *Innovation Mashups: Academic Rigor Meets Social Networking Buzz*,
   Computer, vol. 45, no. 9, pp. 101-105, Sept. 2012,
   https://ecommons.luc.edu/cs_facpubs/72/
-
-.. index::
-   agent-based modeling, ABM, healthcare
-
-* Linde, Sebastian and |George-K-Thiruvathukal|,
-  *Collaboration and Health Care Diagnostics: an Agent Based Model Simulation (2012)*,
-  Computer Science: Faculty Publications & Other Works. Paper 63,
-  http://ecommons.luc.edu/cs_facpubs/63
-
-.. index::
-   naked objects, filesystems, frameworks
-
-* J. P. Kaylor, K. Läufer, and |George-K-Thiruvathukal|,
-  *Simplifying domain modeling and memory management in user-mode filesystems with the NOFS framework*,
-  In Proc. 2010 IEEE Intl. Conf. on Electro/Information Technology (EIT),
-  Indianapolis, Indiana, May 2012,
-  https://ecommons.luc.edu/cs_facpubs/62/
 
 .. index::
    academic functions, clouds, social networks
@@ -577,30 +517,6 @@ Journal Articles
 .. index::
    grid computing, telemedicine
 
-* Ian Foster, Gregor von Laszewski, |George-K-Thiruvathukal|,
-  and Brian Toonen,
-  *A computational framework for telemedicine*,
-  Future Generation Computing Systems, Elsevier, 14(1-2):109-123,
-  June 1998,
-  https://ecommons.luc.edu/cs_facpubs/41/
-
-.. index::
-   grid-enabled MPI, MPI, Message Passing Interface
-
-* Ian T. Foster, Jonathan Geisler, William Gropp, Nick Karonis, Ewing Lusk,
-  |George-K-Thiruvathukal|, and Steve Tuecke,
-  *A Wide-Area implementation of the message passing interface*,
-  Parallel Computing, 24(12):1735{1749, 1998,
-  https://ecommons.luc.edu/cs_facpubs/38/
-
-.. index::
-   grid, grid and Java, Nexus communication system
-
-* I. Foster, |George-K-Thiruvathukal|, and S. Tuecke,
-  *Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system*,
-  Concurrency: Practice and Experience, vol. 9, no. 6, pp. 465-475,
-  Jun. 1997,
-  https://ecommons.luc.edu/cs_facpubs/8/
 
 Magazine Articles
 ~~~~~~~~~~~~~~~~~
@@ -709,6 +625,22 @@ Magazine Articles
   *Web 2.0 Publishing and Happy 1.0, Computing Now!*,
   http://www.computer.org/portal/web/computingnow/archive/may2009
 
+Workshop / Short Papers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :widths: 25 15
+
+   * - Jeffrey C. Carver and |George-K-Thiruvathukal|, *Software Engineering Need not be Difficult*, Workshop on Sustainable Software for Science: Practice and Experiences, SuperComputing Conference 2013, Available on figshare, http://dx.doi.org/10.6084/m9.figshare.830442
+     - :index:`software engineering`, :index:`scientific computing`
+
+   * - Michael J. Lewis, |George-K-Thiruvathukal|, Venkatram Vishwanath, Michael E. Papka, and Andrew Johnson, *A Distributed Graph Approach for Pre-Processing Linked Data Using Supercomputers*, In Proceedings of International Workshop on Semantic Big Data 2017 (SBD 2017) at ACM SIGMOD 2017, https://ecommons.luc.edu/cs_facpubs/139/
+     - :index:`distributed systems`, :index:`graphs`, :index:`pre-processing`, :index:`supercomputers`
+
+   * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *RestFS: Resources and Services are Filesystems, Too*, Proceedings of Second International Workshop on RESTful Design Hyderabad, India, https://ecommons.luc.edu/cs_facpubs/15/
+     - :index:`RestFS`, :index:`FUSE`, :index:`filesystems`
+
+
 Posters
 ~~~~~~~~~~
 
@@ -726,6 +658,18 @@ Posters
 ArXiv/Technical Reports
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan,
+  Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang,
+  Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu,
+  Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov,
+  |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo,
+  *2018 Low-Power Image Recognition Challenge*,
+  2018,
+  https://arxiv.org/abs/1810.01732
+  https://ecommons.luc.edu/cs_facpubs/204/
+
+.. index::
+   machine learning, fossils, shape analysis
 .. index::
    testing, mocking, spies, testing complexity, test maintainability
 
@@ -753,6 +697,15 @@ ArXiv/Technical Reports
 * |George-K-Thiruvathukal|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath,
   *A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers*,
   https://arxiv.org/abs/1904.11812
+
+.. index::
+   agent-based modeling, ABM, healthcare
+
+* Linde, Sebastian and |George-K-Thiruvathukal|,
+  *Collaboration and Health Care Diagnostics: an Agent Based Model Simulation (2012)*,
+  Computer Science: Faculty Publications & Other Works. Paper 63,
+  http://ecommons.luc.edu/cs_facpubs/63
+
 
 .. index::
    education
