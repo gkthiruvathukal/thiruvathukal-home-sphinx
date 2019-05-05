@@ -29,7 +29,7 @@ release = version
 
 rst_epilog = """
 
-.. |site-version| replace:: *%(version)s*
+.. |site-version| replace:: **version %(version)s**
 
 """ % vars()
 
