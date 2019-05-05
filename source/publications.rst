@@ -1,11 +1,13 @@
 Publications
 ------------
 
-This is a nearly complete list, organized by category and in reverse chronological order.
-
-See `works.bepress.com/gkthiruvathukal <https://works.bepress.com/gkthiruvathukal/>`_ (the Digital Commons).
-
 .. |George-K-Thiruvathukal| replace:: **George K. Thiruvathukal**
+
+This is a nearly complete list of publications, which I am still organizing.
+
+You can also see the :ref:`genindex` for a list of topics, which will eventually bring you back to a specific entry on this page.
+This is all made possible by the Sphinx documentation tool.
+
 
 Books
 ~~~~~
@@ -20,19 +22,19 @@ Books
    double: books; Python
 
 .. list-table::
-   :widths: 10 30
+   :widths: 35 10
 
    * - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
-     - :index:`software engineering>`; :index:`research software`
+     - :index:`software engineering`, :index:`research software`
 
    * - Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
-     - :index:`digital humanities`; :index:`Nintendo Wii`; :index:`gaming`; :index:`history of computing`; :index:`platform studies`
+     - :index:`digital humanities`, :index:`Nintendo Wii`, :index:`gaming`, :index:`history of computing`, :index:`platform studies`
 
    * - Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/
-     - :index:`research`; :index:`professional reference`; :index:`Java`; :index:`multithreading`
+     - :index:`research`, :index:`professional reference`, :index:`Java`, :index:`multithreading`
 
    * - |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002 
-     - :index:`web programming`; :index:`professional reference`; :index:`Python`; :index:`Linux`; :index:`MySQL`; :index:`Apache Web Server`
+     - :index:`web programming`, :index:`professional reference`, :index:`Python`, :index:`Linux`, :index:`MySQL`, :index:`Apache Web Server`
 
 .. index::
    double: books; Introduction to Computer Science
@@ -46,7 +48,7 @@ e-Books
 ~~~~~~~~
 
 .. list-table::
-   :widths: 10 30
+   :widths: 35 10
 
    * - Andrew N. Harrington and |George-K-Thiruvathukal|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_, https://ecommons.luc.edu/cs_facpubs/74
      - :index:`CS1`, :index:`introduction to computer science`, :index:`C#`, :index:`COMP 170`
@@ -69,33 +71,21 @@ e-Books
 Conference Papers
 ~~~~~~~~~~~~~~~~~~
 
-.. index::
-   software citation, JOSS
+.. list-table::
+   :widths: 35 10
 
-* Lorena Barba, Juanjo Bazán, Jed Brown, Roman Guimera, Melissa Gymrek, Alex Hanna, Lindsey Heagy, Kathryn D. Huff,
-  Daniel Katz, Christopher Madan, Kevin Moerman, Kyle Niemeyer, Jack L. Poulson, Pjotr Prins, Karthik Ram, Ariel Rokem,
-  Arfon M. Smith, |George-K-Thiruvathukal|, Kristen Thyng, Leonardo Uieda, Bruce Wilson, and Yo Yehudi,
-  *Giving software its due through community-driven review and publication*,
-  https://ecommons.luc.edu/cs_facpubs/216/
+   * - Lorena Barba, Juanjo Bazán, Jed Brown, Roman Guimera, Melissa Gymrek, Alex Hanna, Lindsey Heagy, Kathryn D. Huff, Daniel Katz, Christopher Madan, Kevin Moerman, Kyle Niemeyer, Jack L. Poulson, Pjotr Prins, Karthik Ram, Ariel Rokem, Arfon M. Smith, |George-K-Thiruvathukal|, Kristen Thyng, Leonardo Uieda, Bruce Wilson, and Yo Yehudi, *Giving software its due through community-driven review and publication*, https://ecommons.luc.edu/cs_facpubs/216/
+     - :index:`software citation`, :index:`JOSS`
 
-.. index::
-   software process, empirical study, software engineering
+   * - Nasir U. Eisty, |George-K-Thiruvathukal|, and Jeffrey C. Carver, Use of Software Process in Research Software Development: A Survey, Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.  2019, https://ecommons.luc.edu/cs_facpubs/214/
 
-* Nasir U. Eisty, |George-K-Thiruvathukal|, and Jeffrey C. Carver,
-  Use of Software Process in Research Software Development: A Survey,
-  Proceedings of the Evaluation and Assessment on Software Engineering (EASE) 2019.
-  2019,
-  https://ecommons.luc.edu/cs_facpubs/214/
+     - :index:`software process`, :index:`empirical study`, :index:`software engineering`
 
-.. index::
-   robotics in education
+   * - Ronald I. Greenberg, |George-K-Thiruvathukal|, and Sara T. Greenberg, *Integrating mathematics and educational robotics: Simple motion planning*, Proceedings of the 10th International Conference on Robotics in Education, Advances in Intelligent Systems and Computing. Springer-Verlag, 2019, https://ecommons.luc.edu/cs_facpubs/213/
+     - :index:`robotics in education`
 
-* Ronald I. Greenberg, |George-K-Thiruvathukal|, and Sara T. Greenberg,
-  *Integrating mathematics and educational robotics: Simple motion planning*,
-  Proceedings of the 10th International Conference on Robotics in Education,
-  Advances in Intelligent Systems and Computing. Springer-Verlag,
-  2019,
-  https://ecommons.luc.edu/cs_facpubs/213/
+.. todo:: 
+   continue from here
 
 .. index::
    cloud, computer vision, streaming
