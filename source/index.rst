@@ -6,7 +6,7 @@
 Welcome
 ========
 
-You've reached the home page for George K. Thiruvathukal, PhD.
+You've reached the home page for George K. Thiruvathukal, PhD, version |site-version|.
 
 I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_ where I direct the `Software Systems Laboratory <https://ssl.cs.luc.edu/>`_ (site unveiling any day now).
 

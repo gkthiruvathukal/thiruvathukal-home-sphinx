@@ -12,8 +12,8 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
+import os
+import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
 
@@ -24,10 +24,14 @@ copyright = '2019, George K. Thiruvathukal'
 author = 'George K. Thiruvathukal'
 
 # The short X.Y version
-version = ''
-# The full version, including alpha/beta/rc tags
-release = '0.1'
+version = os.environ.get("BOOK_VERSION", "beta")
+release = version
 
+rst_epilog = """
+
+.. |site-version| replace:: *%(version)s*
+
+""" % vars()
 
 # -- General configuration ---------------------------------------------------
 
