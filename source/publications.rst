@@ -3,11 +3,11 @@ Publications
 
 .. |George-K-Thiruvathukal| replace:: **George K. Thiruvathukal**
 
-This is a nearly complete list of publications, which I am still organizing.
+This should be a nearly complete list of publications.
 
-You can also see the :ref:`genindex` for a list of topics, which will eventually bring you back to a specific entry on this page.
-This is all made possible by the Sphinx documentation tool.
+If for any reason you cannot easily find something, you can either view the :ref:`genindex` (by topic) or the `Loyola Digital Commons <https://works.bepress.com/>`_. Virtually all of my work is open access, except for a couple of books.
 
+Please don't hesitate to contact me with any questions, especially if you are looking for a particular work.
 
 Books
 ~~~~~
@@ -137,7 +137,7 @@ Conference Papers
    * - Jones, Steven E., Peter Shillingsburg, and |George-K-Thiruvathukal|, *E-Carrel: An Environment for Collaborative Textual Scholarship*, Journal of the Chicago Colloquium on Digital Humanities and Computer Science, 1:2, June 16, 2010, https://ecommons.luc.edu/cs_facpubs/1/
      - :index:`HRIT`, :index:`E-Carrel`, :index:`collaborative scholarship`
 
-   * -  Benjamin Gonzalez and |George-K-Thiruvathukal|, *The Hydra Filesystem: A Distrbuted Storage Famework*, In Linux Clusters International, 2006, https://ecommons.luc.edu/cs_facpubs/7/
+   * - Benjamin Gonzalez and |George-K-Thiruvathukal|, *The Hydra Filesystem: A Distrbuted Storage Famework*, In Linux Clusters International, 2006, https://ecommons.luc.edu/cs_facpubs/7/
      - :index:`Hydra Filesystem`, :index:`Python`, :index:`FUSE`, :index:`I/O`, :index:`peer-to-peer`
 
    * - Peter M. Aarestad, Avery Ching, |George-K-Thiruvathukal|, and Alok N. Choudhary *Scalable Approaches for Supporting MPI-IO Atomicity*, Sixth IEEE International Symposium on Cluster Computing and the Grid, 2006, https://ecommons.luc.edu/cs_facpubs/21/
@@ -158,7 +158,7 @@ Conference Papers
    * - Konstantin Läufer, Chandra N. Sekharan, and |George-K-Thiruvathukal|, *PDC Modules for Every Level: A Comprehensive Model for Incorporating PDC Topics into the Existing Undergraduate Curriculum*, in 1st NSF/TCPP Workshop on Parallel and Distributed Computing Education (EduPar), May 2011, https://ecommons.luc.edu/cs_facpubs/53/
      - :index:`EduPar`, :index:`curriculum`
 
-   * - Joe Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *Online Layered File System (OLFS): A layered and versioned filesystem and performance analysi*, In Proceedings of Electro/Information Technology 2010 (EIT 2010).  https://ecommons.luc.edu/cs_facpubs/40/
+   * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *Online Layered File System (OLFS): A layered and versioned filesystem and performance analysi*, In Proceedings of Electro/Information Technology 2010 (EIT 2010).  https://ecommons.luc.edu/cs_facpubs/40/
      - :index:`filesystems`, :index:`userland`, :index:`FUSE`, :index:`versioned filesystem`, :index:`OLFS`
 
    * - Jones, Steven E., Peter Shillingsburg, and |George-K-Thiruvathukal|, *E-Carrel: An Environment for Collaborative Textual Scholarship*, Journal of the Chicago Colloquium on Digital Humanities and Computer Science 1, no. 2 (June 16, 2010).  https://ecommons.luc.edu/cs_facpubs/1/
@@ -167,7 +167,7 @@ Conference Papers
    * - Matt Bone, Peter F. Nabicht, Konstantin Läufer, and |George-K-Thiruvathukal|, *Taming XML: Objects first, then markup*, IEEE Electro/Information Technology 2008 (EIT 2008), https://ecommons.luc.edu/cs_facpubs/39/
      - :index:`XML`, :index:`data binding`, :index:`frameworks`
 
-   * - Herr, S., K. Läufer, J. P. Shafaee, |George-K-Thiruvathukal|, and G. Wirtz (2008).  *Combining SOA and BPM technologies for Cross-System process automation*, In SEKE, pp. 339-344.  https://ecommons.luc.edu/cs_facpubs/37/
+   * - Sebastian Herr, Konstantin Läufer, John P. Shafaee, |George-K-Thiruvathukal|, and Guido Wirtz (2008).  *Combining SOA and BPM technologies for Cross-System process automation*, In SEKE, pp. 339-344.  https://ecommons.luc.edu/cs_facpubs/37/
      - :index:`web services`, :index:`SOA`, :index:`business process modeling`, :index:`BPM`
 
    * - Neeraj Mehta, Yogesh Kanitkar, Konstantin Laufer, |George-K-Thiruvathukal|, *A Model-Driven Approach to Job/Task Composition in Cluster Computing*, ipdps, pp.233, 2007 IEEE International Parallel and Distributed Processing Symposium, 2007 https://ecommons.luc.edu/cs_facpubs/52/
@@ -176,13 +176,13 @@ Conference Papers
    * - Allen J. Frantzen and |George-K-Thiruvathukal|, *Electronic Editing and Anglo-Saxon Texts*, Chicago Colloquium on Digital Humanities and Computer Science, 2006.  https://ecommons.luc.edu/cs_facpubs/56/
      - :index:`digital humanities`, :index:`electronic editing`, :index:`XML`, :index:`Anglo-Saxon Project`
 
-   * - X\. Shen, |George-K-Thiruvathukal|, W. Liao, A. Choudhary, A. Singh, *A Java graphical user interface for large-scale scientific computations in distributed systems*, In proceedings of the Fourth International Conference on High-Performance Computing in the Asia-Pacific Region-Volume 1, 2000.  https://ecommons.luc.edu/cs_facpubs/49/
+   * - Xiaohui Shen, |George-K-Thiruvathukal|, Wei-Ken Liao, Alok Choudhary, Arti Singh, *A Java graphical user interface for large-scale scientific computations in distributed systems*, In proceedings of the Fourth International Conference on High-Performance Computing in the Asia-Pacific Region-Volume 1, 2000.  https://ecommons.luc.edu/cs_facpubs/49/
      - :index:`Java`, :index:`workflows`, :index:`scientific computing`, :index:`distributed systems`
 
-   * - Shen, X., Liao, W., Choudhary, A., Memik, G., Kandemir, M., More, S., |George-K-Thiruvathukal| & Singh, A.  *A novel application development environment for large-scale scientific computations*, In Proceedings of the International Conference on Supercomputing (ICS), 2000.  https://ecommons.luc.edu/cs_facpubs/48/
+   * - Xiaohui Shen, Wei-Keng Liao, AlokChoudhary, Gokhan Memik, Mahmut Kandemir, Sachin More, |George-K-Thiruvathukal|, and Arti Singh, *A novel application development environment for large-scale scientific computations*, In Proceedings of the International Conference on Supercomputing (ICS), 2000.  https://ecommons.luc.edu/cs_facpubs/48/rt
      - :index:`Java`, :index:`workflows`, :index:`scientific computing`, :index:`distributed systems`
 
-   * - |George-K-Thiruvathukal|, *Toward Scalable Parallel Software: An Active Object Model and Library to Support von Neumann Languages*, In Proceedings of HiPC Workshop India, 1994.  https://ecommons.luc.edu/cs_facpubs/50/
+   * - |George-K-Thiruvathukal|, *Toward Scalable Parallel Software: An Active Object Model and Library to Support von Neumann Languages*, In Proceedings of HiPC Workshop India, 1994,  https://ecommons.luc.edu/cs_facpubs/50/
      - :index:`actors`, :index:`enhanced actors`, :index:`object-oriented parallel programming`
 
    * - William T. O'Connell, |George-K-Thiruvathukal|, and Thomas W. Christopher, *A generic modeling environment for heterogeneous parallel and distributed computing*, In International Conference on Advanced Science and Technology 1994 (ICAST 1994), AT&T Bell Laboratories, 1994.  https://ecommons.luc.edu/cs_facpubs/43/
@@ -218,7 +218,7 @@ Journal Articles
    * - Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti, *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*, Evolutionary Bioinformatics 2016:12 23-27, https://ecommons.luc.edu/cs_facpubs/127/
      - :index:`bioinformatics`, :index:`HIV-1`, :index:`phylogeny`, :index:`software engineering`
 
-   * - Ian Foster, Gregor von Laszewski, |George-K-Thiruvathukal|, and Brian Toonen, *A computational framework for telemedicine*, Future Generation Computing Systems, Elsevier, 14(1-2):109-123, June 1998, https://ecommons.luc.edu/cs_facpubs/41/
+   * - Ian T. Foster, Gregor von Laszewski, |George-K-Thiruvathukal|, and Brian Toonen, *A computational framework for telemedicine*, Future Generation Computing Systems, Elsevier, 14(1-2):109-123, June 1998, https://ecommons.luc.edu/cs_facpubs/41/
      - :index:`grid computing`, :index:`telemedicine`
 
    * - Ian T. Foster, Jonathan Geisler, William Gropp, Nick Karonis, Ewing Lusk, |George-K-Thiruvathukal|, and Steve Tuecke, *A Wide-Area implementation of the message passing interface*, Parallel Computing, 24(12):1735{1749, 1998, https://ecommons.luc.edu/cs_facpubs/38/
@@ -294,7 +294,7 @@ Magazine Articles
    * - Konstantin Läufer, |George-K-Thiruvathukal|, Ryohei Nishimura, Carlos Ramírez Martínez-Eiroa, *Putting a Slug to Work*, Computing in Science and Engineering, vol. 11, no. 2, pp. 62-68, Mar./Apr. 2009, https://ecommons.luc.edu/cs_facpubs/23/
      - :index:`low-power computing`, :index:`embedded computing`, :index:`Slugs`
 
-   * - Joe Kaylor, |George-K-Thiruvathukal|, *A Virtual Computing Laboratory*, Computing in Science and Engineering, vol. 10, no. 2, pp. 65-69, Mar./Apr. 2008, https://ecommons.luc.edu/cs_facpubs/22/
+   * - Joseph P. Kaylor and |George-K-Thiruvathukal|, *A Virtual Computing Laboratory*, Computing in Science and Engineering, vol. 10, no. 2, pp. 65-69, Mar./Apr. 2008, https://ecommons.luc.edu/cs_facpubs/22/
      - :index:`virtualization`, :index:`managing computing labs`
 
    * - Bill Feiereisen and |George-K-Thiruvathukal|, *At Issue*, Computing in Science and Engineering, vol. 10, no. 2, pp. 60-64, Mar./Apr. 2008, https://ecommons.luc.edu/cs_facpubs/13/
