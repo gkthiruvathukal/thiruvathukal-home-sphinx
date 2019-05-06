@@ -5,7 +5,7 @@ Publications
 
 This should be a nearly complete list of publications.
 
-If for any reason you cannot easily find something, you can either view the :ref:`genindex` (by topic) or the `Loyola Digital Commons <https://works.bepress.com/>`_. Virtually all of my work is open access, except for a couple of books.
+If for any reason you cannot easily find something, you can either view the :ref:`genindex` (by topic) or my `BePress Profile <https://works.bepress.com/gkthiruvathukal>`_. Virtually all of my work is open access, except for a couple of books.
 
 Please don't hesitate to contact me with any questions, especially if you are looking for a particular work.
 
