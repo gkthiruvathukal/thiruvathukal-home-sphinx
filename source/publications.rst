@@ -13,18 +13,26 @@ Books
 ~~~~~
 
 .. list-table::
-   :widths: 25 15
+   :widths: 10 25 15
 
-   * - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
+   * - .. image:: figures/se4science.jpg
+          :width: 150px
+     - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
      - :index:`software engineering`, :index:`research software`
 
-   * - Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
+   * - .. image:: figures/codename-revolution.jpg
+          :width: 150px
+     - Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
      - :index:`digital humanities`, :index:`Nintendo Wii`, :index:`gaming`, :index:`history of computing`, :index:`platform studies`
 
-   * - Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/
+   * - .. image:: figures/hpjpc.jpg
+          :width: 150px
+     - Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/
      - :index:`research`, :index:`professional reference`, :index:`Java`, :index:`multithreading`
 
-   * - |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002 
+   * - .. image:: figures/wpp.jpg
+          :width: 150px
+     - |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002 
      - :index:`web programming`, :index:`professional reference`, :index:`Python`, :index:`Linux`, :index:`MySQL`, :index:`Apache Web Server`
 
 
