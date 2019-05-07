@@ -36,33 +36,6 @@ Books
      - :index:`web programming`, :index:`professional reference`, :index:`Python`, :index:`Linux`, :index:`MySQL`, :index:`Apache Web Server`
 
 
-e-Books / Documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. list-table::
-   :widths: 25 15
-
-   * - Andrew N. Harrington and |George-K-Thiruvathukal|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_, https://ecommons.luc.edu/cs_facpubs/74
-     - :index:`CS1`, :index:`introduction to computer science`, :index:`C#`, :index:`COMP 170`
-
-   * - Yung-Hsiang Lu and |George-K-Thiruvathukal|, `Software Engineering for Machine Learning  <https://se4ml.org>`_
-     - :index:`software engineering`, :index:`machine learning`
-
-   * - |George-K-Thiruvathukal| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
-     - :index:`distributed systems`, :index:`COMP 339`, :index:`COMP 439`
-
-   * - |George-K-Thiruvathukal| and Miao Ye, `Systems Handbook, Loyola University Chicago Computer Science <https://systemshandbook.cs.luc.edu>`_
-     - :index:`manuals`, :index:`systems handbook`
-
-   * - |George-K-Thiruvathukal|, Editor, `Academic Programs, Loyola University Chicago Computer Science <https://academics.cs.luc.edu>`_
-     - :index:`academic programs`
-
-   * - |George-K-Thiruvathukal|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011, https://ecommons.luc.edu/cs_facpubs/103/
-     - :index:`history of computing`
-
-   * - Pamela L. Caughie, Nicholas J. Hayward, Mark. Hussey, Peter L. Shillingsburg, and |George-K-Thiruvathukal|, eds, *Woolf Online*, Web. http://www.woolfonline.com, 2013
-     - :index:`Woolf Online`, :index:`collaborative scholarship`, :index:`textual studies`
-
 Conference Papers
 ~~~~~~~~~~~~~~~~~~
 
@@ -235,6 +208,28 @@ Journal Articles
    * - Ian T. Foster, |George-K-Thiruvathukal|, and Steve Tuecke, *Technologies for ubiquitous supercomputing: a Java interface to the Nexus communication system*, Concurrency: Practice and Experience, vol. 9, no. 6, pp. 465-475, Jun. 1997, https://ecommons.luc.edu/cs_facpubs/8/
 
      - :index:`grid computing`, :index:`Java`
+
+e-Books / Archives
+~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :widths: 25 15
+
+   * - Andrew N. Harrington and |George-K-Thiruvathukal|, `Introduction to Computer Science in C# <https://introcs.cs.luc.edu>`_, https://ecommons.luc.edu/cs_facpubs/74
+     - :index:`CS1`, :index:`introduction to computer science`, :index:`C#`, :index:`COMP 170`
+
+   * - Yung-Hsiang Lu and |George-K-Thiruvathukal|, `Software Engineering for Machine Learning  <https://se4ml.org>`_
+     - :index:`software engineering`, :index:`machine learning`
+
+   * - |George-K-Thiruvathukal| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
+     - :index:`distributed systems`, :index:`COMP 339`, :index:`COMP 439`
+
+   * - |George-K-Thiruvathukal|, *A Mini-History of Computing*, American Institute of Physics, College Park, MD, 2011, https://ecommons.luc.edu/cs_facpubs/103/
+     - :index:`history of computing`
+
+   * - Pamela L. Caughie, Nicholas J. Hayward, Mark. Hussey, Peter L. Shillingsburg, and |George-K-Thiruvathukal|, eds, *Woolf Online*, Web. http://www.woolfonline.com, 2013
+     - :index:`Woolf Online`, :index:`collaborative scholarship`, :index:`textual studies`
+
 
 Magazine Articles
 ~~~~~~~~~~~~~~~~~~~
@@ -462,4 +457,20 @@ Datasets
 
    * - Dario Dematties, |George-K-Thiruvathukal|, Silvio Rizzi, Alejandro Javier Wainselboim and Bonifacio Silvano Zanutto, *Experimental Results and Appendices: Cortical Spectro-Temporal Model (CSTM) [Data set]*, Zenodo, 2019, http://doi.org/10.5281/zenodo.2581550
      - neurocomputing, phonetics, :index:`phonetic classification results`
+
+Documentation Sites
+~~~~~~~~~~~~~~~~~~~~~
+
+.. list-table::
+   :widths: 25 15
+
+
+   * - |George-K-Thiruvathukal| and Miao Ye, `Systems Handbook, Loyola University Chicago Computer Science <https://systemshandbook.cs.luc.edu>`_
+     - :index:`manuals`, :index:`systems handbook`, :index:`sysadmin`
+
+   * - |George-K-Thiruvathukal|, `Academic Programs, Loyola University Chicago Computer Science <https://academics.cs.luc.edu>`_
+     - :index:`academic programs`
+
+   * - |George-K-Thiruvathukal| and Andrew N. Harrington, `Graduate Student Handbook, Loyola University Chicago Computer Science <https://graduatehandbook.cs.luc.edu>`_
+     - :index:`graduate handbook`, :index:`academic programs`
 
