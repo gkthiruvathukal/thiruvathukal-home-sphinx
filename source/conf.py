@@ -149,6 +149,7 @@ html_theme_options = {
     'extra_nav_links' : {
         'Site Index' : 'genindex.html',
         'Digital Library' : 'https://works.bepress.com/gkthiruvathukal',
+        'Google Scholar' : 'https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en',
         'GitHub' : 'https://github.com/gkthiruvathukal',
         'LinkedIn' : 'https://www.linkedin.com/in/gkthiruvathukal',
         'Twitter' : 'https://twitter.com/gktheoretical',
