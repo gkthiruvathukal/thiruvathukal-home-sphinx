@@ -106,6 +106,7 @@ html_theme_options = {
     'header_links' : [
         ('Home', 'index', False, 'home'),
         ("GitHub", "https://github.com/gkthiruvathukal", True, 'code'),
+        ("Software Systems Laboratory", "https://ssl.cs.luc.edu", True, 'link'),
         ("LinkedIn", "https://www.linkedin.com/in/gkthiruvathukal", True, 'link'),
         ("Twitter", "https://twitter.com/gktheoretical", True, 'link'),
         ("Loyola CS", "http://luc.edu/cs", True, 'link'),
@@ -148,6 +149,7 @@ html_theme_options = {
     'analytics_id' : 'UA-23507985-1',
     'extra_nav_links' : {
         'Site Index' : 'genindex.html',
+        'Software Systems Laboratory' : 'https://ssl.cs.luc.edu',
         'Digital Library' : 'https://works.bepress.com/gkthiruvathukal',
         'Google Scholar' : 'https://scholar.google.com/citations?user=Ls7yS0IAAAAJ&hl=en',
         'GitHub' : 'https://github.com/gkthiruvathukal',

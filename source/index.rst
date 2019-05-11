@@ -8,7 +8,7 @@ Welcome
 
 You've reached the home page for George K. Thiruvathukal, PhD. |site-version|
 
-I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_ where I direct the `Software Systems Laboratory <https://ssl.cs.luc.edu/>`_ (site unveiling any day now).
+I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_ and `Director of the Software Systems Laboratory <https://ssl.cs.luc.edu/>`_.
 
 I'm also `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_ and
 collaborate and serve as the lead of software engineering on the `CAM <https://cam2project.net>`_\ :superscript:`2` `Project <https://cam2project.net>`_ at Purdue University.
