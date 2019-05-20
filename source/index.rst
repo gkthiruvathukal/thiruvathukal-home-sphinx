@@ -11,7 +11,7 @@ You've reached the home page for George K. Thiruvathukal, PhD. |site-version|
 I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_, where I direct the `Software Systems Laboratory <https://ssl.cs.luc.edu/>`_.
 
 I'm also `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_ and
-collaborate and serve as the lead of software engineering on the CAM\ :superscript:`2` Project in the `Purdue High-Efficiency, Low-Power Systems Laboratory <https://purduehelps.org>`__.
+collaborate with and serve as the lead of software engineering on the CAM\ :superscript:`2` Project in the `Purdue High-Efficiency, Low-Power Systems Laboratory <https://purduehelps.org>`__.
 
 My research and teaching interests include software engineering, distributed systems, high-performance computing, cyber-physical systems, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computer science. See :doc:`publications` or :ref:`genindex` if you are looking for a specific work or topic, respectively. For more information, see the :doc:`about` page.
 
