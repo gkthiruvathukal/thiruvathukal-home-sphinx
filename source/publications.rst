@@ -196,6 +196,9 @@ Journal Articles
 .. list-table::
    :widths: 25 15
 
+   * - Dario Dematties, Silvio Rizzi, |George-K-Thiruvathukal|, Javier Wainselboim, Bonifacio Silvano Zanutto, *Phonetic Acquisition in Cortical Dynamics, A Computational Approach*, PLoS ONE 14(6): e0217966, 2019, https://doi.org/10.1371/journal.pone.0217966
+     - :index:`artificial intelligence`, :index:`phonetic classification`, :index:`biologically-inspired models`, :index:`cortical dynamics`
+
    * - Sergei Alyamkin, Matthew Ardi, Alexander C. Berg, Achille Brighton, Bo Chen, Yiran Chen, Hsin-Pai Cheng, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Abhinav Goel, Alexander Goncharenko, Xuyang Guo, Soonhoi Ha, Andrew Howard, Xiao Hu, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Jong Gook Ko, Alexander Kondratyev, Junhyeok Lee, Seungjae Lee, Suwoong Lee, Zichao Li, Zhiyu Liang, Juzheng Liu, Xin Liu, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Hong Hanh Nguyen, Eunbyung Park, Denis Repin, Liang Shen, Tao Sheng, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo, Low-Power Computer Vision: Status, Challenges, Opportunities, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, https://arxiv.org/abs/1904.07714, https://ecommons.luc.edu/cs_facpubs/217/
      - :index:`low-power`, :index:`image recgonition`
 
