@@ -10,8 +10,10 @@ You've reached the home page for George K. Thiruvathukal, PhD. |site-version|
 
 I'm `Professor of Computer Science at Loyola University Chicago <https://luc.edu/gkthiruvathukal>`_, where I direct the `Software Systems Laboratory <https://ssl.cs.luc.edu/>`_.
 
-I'm also `Visiting Faculty at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_ and
-collaborate with and serve as the lead of software engineering on the CAM\ :superscript:`2` Project in the `Purdue High-Efficiency, Low-Power Systems Laboratory <https://purduehelps.org>`__.
+I'm also `Visiting Researcher at Argonne National Laboratory (ALCF) <https://www.alcf.anl.gov/staff-directory/george-k-thiruvathukal>`_ and
+collaborate with and lead software engineering/reproducibility for the CAM\ :superscript:`2` Project in the `Purdue High-Efficiency, Low-Power Systems Laboratory <https://purduehelps.org>`__.
+
+I serve on the editorial boards of `IEEE Computer <https://www.computer.org/csdl/magazines/co>`__ as associate editor-in-chief, `IEEE Computing in Science and Engineering <https://www.computer.org/csdl/magazine/cs>`__ as past editor-in-chief and co-editor of `Reproducible Research Track <https://publications.computer.org/cise/2017/07/26/reproducible-research-track-call-for-papers/>`__, and the `Journal of Open Source Software <https://joss.theoj.org/about>`__.
 
 My research and teaching interests include software engineering, distributed systems, high-performance computing, cyber-physical systems, programming languages and systems, history of computing, computational and data science, computing education, and ethical/legal/social issues in computer science. See :doc:`publications` or :ref:`genindex` if you are looking for a specific work or topic, respectively. For more information, see the :doc:`about` page.
 
