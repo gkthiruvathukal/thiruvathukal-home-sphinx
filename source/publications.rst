@@ -71,7 +71,7 @@ Conference Papers
      - :index:`cloud`, :index:`computer vision`, :index:`streaming`
 
    * - Caleb Tung, Matthew R. Kelleher, Ryan J. Schlueter, Binhan Xu, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Yen-Kuang Chen, and Yang Lu, *Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions*, Proceedings of IEEE Multimedia Information Processing and Retrieval (MIPR), 2019, https://ecommons.luc.edu/cs_facpubs/207/
-     - :index:`object detection`, :index:`network cameras`, :index:`ambient lighting`
+     - :index:`artificial intelligence` :index:`machine learning` :index:`object detection`, :index:`network cameras`, :index:`ambient lighting`
 
    * - Ahmed S. Kaseb, Bo Fu, Anup Mohan, Yung-Hsiang Lu, Amy Reibman, |George-K-Thiruvathukal|, *Analyzing Real-Time Multimedia Content From Network Cameras: Using CPUs and GPUs in the Cloud*, Proceedings of IEEE Multimedia Information Processing and Retrieval, 2018, https://ecommons.luc.edu/cs_facpubs/190/
      - :index:`network cameras`, :index:`CPUs`, :index:`GPGPUs`, :index:`cloud`
@@ -89,7 +89,7 @@ Conference Papers
      - :index:`history`, :index:`computer science`
 
    * - Kent Gauen, Ryan Dailey, John Laiman, Yuxiang Zi, Nirmal Asokan, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Mei-Ling Shyu, and Shu-Ching Chen, *Comparison of Visual Datasets for Machine Learning*, IEEE Conference on Information Reuse and Integration 2017, https://ecommons.luc.edu/cs_facpubs/148/
-     - :index:`machine learning`, :index:`comparison`, :index:`data sets`
+     - :index:`artificial intelligence` :index:`machine learning`, :index:`comparison`, :index:`data sets`
 
    * - |George-K-Thiruvathukal|, Shilpika, Nicholas Hayward, Saulo Aguiar, and Konstantin Läufer, *Towards Sustainable Digital Humanities Software*, Chicago Colloquium on Digital Humanities and Computer Science, 2015, https://ecommons.luc.edu/cs_facpubs/126/
      - :index:`digital humanities`
@@ -206,13 +206,13 @@ Journal Articles
      - :index:`low-power`, :index:`image recgonition`
 
    * - Gregory J. Matthews, Juliet K. Brophy, Max P. Luetkemeier, Hongie Gu, and |George-K-Thiruvathukal|, *A comparison of machine learning techniques for taxonomic classification of teeth from the Family Bovidae*, Journal of Applied Statistics, 2018, https://arxiv.org/abs/1802.05778
-     - :index:`classification`, :index:`fossils`, :index:`machine learning`
+     - :index:`artificial intelligence` :index:`classification`, :index:`fossils`, :index:`machine learning`
 
    * - Konstantin Läufer and |George-K-Thiruvathukal|, *Teaching Concurrent Software Design: A Case Study Using Android*, 2017, https://arxiv.org/pdf/1705.02899.pdf
      - :index:`teaching`, :index:`concurrent software`
 
    * - Gregory J. Matthews, |George-K-Thiruvathukal|, Maxwell P. Luetkemeier, Juliet K. Brophy *Examining the use of Amazon’s Mechanical Turk for edge extraction of the occlusal surface of fossilized bovid teeth*, 2017, https://doi.org/10.1371/journal.pone.0179757
-     - :index:`classification`, :index:`fossils`, :index:`machine learning`, :index:`crowdsourcing`, :index:`Mechanical Turk`
+     - :index:`artificial intelligence` :index:`classification`, :index:`fossils`, :index:`machine learning`, :index:`crowdsourcing`, :index:`Mechanical Turk`
 
    * - Steven Reisman, Thomas Hatzopoulos, Konstantin Läufer, |George-K-Thiruvathukal|, Catherine Putonti, *A Polyglot Approach to Bioinformatics Data Integration: A Phylogenetic Analysis of HIV-1*, Evolutionary Bioinformatics 2016:12 23-27, https://ecommons.luc.edu/cs_facpubs/127/
      - :index:`bioinformatics`, :index:`HIV-1`, :index:`phylogeny`, :index:`software engineering`
@@ -237,7 +237,7 @@ e-Books / Archives
      - :index:`CS1`, :index:`introduction to computer science`, :index:`C#`, :index:`COMP 170`
 
    * - Yung-Hsiang Lu and |George-K-Thiruvathukal|, `Software Engineering for Machine Learning  <https://se4ml.org>`_
-     - :index:`software engineering`, :index:`machine learning`
+     - :index:`artificial intelligence` :index:`software engineering`, :index:`machine learning`
 
    * - |George-K-Thiruvathukal| and Sarah Kaylor, `Distributed Systems <https://ds.cs.luc.edu>`_,
      - :index:`distributed systems`, :index:`COMP 339`, :index:`COMP 439`
@@ -259,7 +259,7 @@ Magazine Articles
      - :index:`publishing`, :index:`future of publishing`
 
    * - Manish Parashar and |George-K-Thiruvathukal|, *Extreme Data [Guest editors' introduction]*, Computing in Science & Engineering, vol. 16, no. 4, pp. 8-10, July-Aug. 2014, https://ecommons.luc.edu/cs_facpubs/133/
-     - :index:`extreme scale data`
+     - :index:`artificial intelligence` :index:`extreme scale data`
 
    * - |George-K-Thiruvathukal|, *What We Publish in CiSE*, Computing in Science & Engineering, vol. 16, no. 2, pp. 4-6, Mar.-Apr. 2014, https://ecommons.luc.edu/cs_facpubs/132/
      - :index:`Computing in Science and Engineering`, :index:`publishing`, :index:`magazine scope`
@@ -307,7 +307,7 @@ Magazine Articles
      - :index:`computational thinking`
 
    * - Konstantin Laufer and |George-K-Thiruvathukal|, *Scientific Programming: The Promises of Typed, Pure, and Lazy Functional Programming: Part II*, in Computing in Science & Engineering, vol. 11, no. 5, pp. 68-75, Sept.-Oct. 2009, https://ecommons.luc.edu/cs_facpubs/25/
-     - :index:`functional programming`, :index:`typed functional programming, :index:`lazy functional programming`
+     - :index:`functional programming`, :index:`typed functional programming`, :index:`lazy functional programming`
 
    * - |George-K-Thiruvathukal|, *Introducing Computing Now*, Computing in Science and Engineering, vol. 11, no. 4, pp. 8-10, July/Aug. 2009, https://ecommons.luc.edu/cs_facpubs/24/
      - :index:`Computing Now`, :index:`member engagement`
@@ -350,7 +350,7 @@ Magazine Articles
 
 
    * - Yung-Hsiang Lu, |George-K-Thiruvathukal|, Ahmed S. Kaseb; Kent Gauen, Damini Rijhwani, Ryan Dailey, Deeptanshu Malik, Yutong Huang, Sarah Aghajanzadeh, and Minghao Guo, *See the World through Network Cameras*, IEEE Computer Magazine *(to appear)*, 2019, https://ecommons.luc.edu/cs_facpubs/215/
-     - :index:`computer vision`, :index:`machine learning`, :index:`network cameras`
+     - :index:`artificial intelligence` :index:`computer vision`, :index:`machine learning`, :index:`network cameras`
 
    * - Francis Sullivan, Norman Chonacky, Isabel Beichl and |George-K-Thiruvathukal|, *Former CiSE EICs Reflect on the Magazines 20th Anniversary*, Computing in Science and Engineering, vol. 20, no. 1, pp. 3-7, January/February 2018, https://ecommons.luc.edu/cs_facpubs/191/
      - :index:`Computing in Science and Engineering`, :index:`20th anniversary`
