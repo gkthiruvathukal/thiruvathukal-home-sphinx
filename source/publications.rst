@@ -13,39 +13,34 @@ Books
 ~~~~~
 
 .. list-table::
-   :widths: 40
+   :widths: 15 25
 
    * - .. figure:: figures/se4science.jpg
           :width: 150px
           :align: center
 
-       Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
+     - Jeffrey C. Carver, Neil P. Chue Hong, and |George-K-Thiruvathukal|, :index:`Software Engineering for Science`, Chapman and Hall/CRC, October 20, 2016, `CRC Press Book Site <https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853>`_, https://ecommons.luc.edu/cs_facpubs/128/
 
-       :index:`software engineering`, :index:`research software`
 
    * - .. figure:: figures/codename-revolution.jpg
           :width: 150px
           :align: center
 
-       Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
+     - Steven E. Jones and |George-K-Thiruvathukal|, Codename Revolution: The Nintendo Wii Platform, MIT Press, Platform Studies Series, February 2012, https://mitpress.mit.edu/books/codename-revolution/
 
-       :index:`digital humanities`, :index:`Nintendo Wii`, :index:`gaming`, :index:`history of computing`, :index:`platform studies`
 
    * - .. figure:: figures/hpjpc.jpg
           :width: 150px
           :align: center
 
-       Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/ **(out of print)**
+     - Thomas W. Christopher and |George-K-Thiruvathukal|, *High-Performance Java Platform Computing*, Prentice Hall PTR and Sun Microsystems Java Series, 2000, https://ecommons.luc.edu/cs_facpubs/3/ **(out of print)**
 
-       :index:`research`, :index:`professional reference`, :index:`Java`, :index:`multithreading`
 
    * - .. figure:: figures/wpp.jpg
           :width: 150px
           :align: center
 
-       |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002  **(out of print)**
-
-       :index:`web programming`, :index:`professional reference`, :index:`Python`, :index:`Linux`, :index:`MySQL`, :index:`Apache Web Server`
+     - |George-K-Thiruvathukal|, Thomas W. Christopher, and John P. Shafaee, Web Programming in Python: Techniques for Integrating Linux, Apache Web Server, and MySQL, Prentice Hall PTR, 2002  **(out of print)**
 
 
 Conference Papers
@@ -53,6 +48,19 @@ Conference Papers
 
 .. list-table::
    :widths: 25 15
+
+
+   * - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung, Abhinav Goel, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Camera Placement Meeting Restrictions of Computer Vision, Proceedings of IEEE International Conference on Image Processing 2020, https://ecommons.luc.edu/cs_facpubs/250/
+     - :index:`computer vision`
+
+   * - Aditya Chakraborty, Akshay Pawar, Hojoung Jang, Shunqiao Huang, Sripath Mishra, Shuo-Han Chen, Yuan-Hao Chang, |George-K-Thiruvathukal|, Yung-Hsiang Lu, A Real-Time Feature Indexing System on Live Video Streams, Proceedings of COMPSAC 2020, https://ecommons.luc.edu/cs_facpubs/249/
+     - :index:`computer vision`
+
+   * - Dario J. Dematties, |George-K-Thiruvathukal|, Silvio B. Rizzi, Alejandro Wainselboim, and Bonifacio Silvano Zanutto, Towards High-End Scalability on Biologically-Inspired Computational Models, ParCo 2019, http://dx.doi.org/10.3233/APC200077, https://ecommons.luc.edu/cs_facpubs/242/
+     - :index:`artificial intelligence` :index:`biologically-inspired`  :index:`high-performance computing`
+
+   * - Abhinav Goel, Caleb Tung, Yung-Hsiang Lu, and |George-K-Thiruvathukal| "A Survey of Methods for Low-Power Deep Learning and Computer Vision" 2020 IEEE 6th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA 2020, https://ecommons.luc.edu/cs_facpubs/241/ 
+     - :index:`computer vision`
 
    * - Konstantin Läufer, John O’Sullivan, and |George-K-Thiruvathukal|. 2019. *Tests as Maintainable Assets Via Auto-generated Spies*. In Proceedings of Tenth ACM SIGPLAN Scala Symposium, London, United Kingdom, July 17, 2019 (Scala ’19), https://ecommons.luc.edu/cs_facpubs/230/
      - :index:`testing`, :index:`software quality`, :index:`maintainability`, :index:`software engineering`, :index:`programming languages`
@@ -198,6 +206,9 @@ Journal Articles
 
 .. list-table::
    :widths: 25 15
+
+   * - Dario Dematties, Silvio Rizzi, |George-K-Thiruvathukal|, Mauricio D. Perez, Alejandro Wainselboim, and Bonifacio S. Zanutto, A Computational Theory for the Emergence of Grammatical Categories in Cortical Dynamics, Frontiers in Neural Circuits, 10.3389/fncir.2020.00012, https://ecommons.luc.edu/cs_facpubs/240/
+     - :index:`artificial intelligence` :index:`grammar` :index:`NLP` :index:`natural language processing`
 
    * - Dario Dematties, Silvio Rizzi, |George-K-Thiruvathukal|, Javier Wainselboim, Bonifacio Silvano Zanutto, *Phonetic Acquisition in Cortical Dynamics, A Computational Approach*, PLoS ONE 14(6): e0217966, 2019, https://doi.org/10.1371/journal.pone.0217966
      - :index:`artificial intelligence`, :index:`phonetic classification`, :index:`biologically-inspired models`, :index:`cortical dynamics`
@@ -417,6 +428,9 @@ ArXiv/Technical Reports
 .. list-table::
    :widths: 25 15
 
+   * - Isha Ghodgaonkar, Abhinav Goel, Fischer Bordwell, Caleb Tung, Sara Aghajanzadeh, Noah Curran, Ryan Chen, Kaiwen Yu, Sneha Mahapatra, Vishnu Banna, Gore Kao, Kate Lee, Xiao Hu, Nick Eliopolous, Akhil Chinnakotla, Damini Rijhwani, Ashley Kim, Aditya Chakraborty, Mark Daniel Ward, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Observing Responses to the COVID-19 Pandemic using Worldwide Network Cameras, ArXiv, https://arxiv.org/abs/2005.09091
+     - :index:`COVID-19` :index:`social distancing` :index:`computer vision`
+
    * - Sergei Alyamkin, Matthew Ardi, Achille Brighton, Alexander C. Berg, Yiran Chen, Hsin-Pai Cheng, Bo Chen, Zichen Fan, Chen Feng, Bo Fu, Kent Gauen, Jongkook Go, Alexander Goncharenko, Xuyang Guo, Hong Hanh Nguyen, Andrew Howard, Yuanjun Huang, Donghyun Kang, Jaeyoun Kim, Alexander Kondratyev, Seungjae Lee, Suwoong Lee, Junhyeok Lee, Zhiyu Liang, Xin Liu, Juzheng Liu, Zichao Li, Yang Lu, Yung-Hsiang Lu, Deeptanshu Malik, Eunbyung Park, Denis Repin, Tao Sheng, Liang Shen, Fei Sun, David Svitov, |George-K-Thiruvathukal|, Baiwu Zhang, Jingchi Zhang, Xiaopeng Zhang, and Shaojie Zhuo, *2018 Low-Power Image Recognition Challenge*, 2018, https://arxiv.org/abs/1810.01732 https://ecommons.luc.edu/cs_facpubs/204/
      - :index:`low-power`, :index:`image recognition`, :index:`computer vision`
 
@@ -426,34 +440,26 @@ ArXiv/Technical Reports
    * - |George-K-Thiruvathukal|, Ronald I. Greenberg, and David Garcia, *Understanding Turning Radius and Driving in Convex Polygon Paths in Introductory Robotics*, https://ecommons.luc.edu/cs_facpubs/202/, 
      - :index:`turning radius`, :index:`high-school robotics`
 
-
    * - |George-K-Thiruvathukal|, Shilpika, Nicholas J. Hayward, Konstantin Läufer, *Metrics Dashboard: A Hosted Platform for Software Quality Metrics*, https://arxiv.org/abs/1804.02053
      - :index:`software quality`, :index:`software metrics`
-
 
    * - |George-K-Thiruvathukal|, Cameron Christensen, Xiaoyong Jin, François Tessier, and Venkatram Vishwanath, *A Benchmarking Study to Evaluate Apache Spark on Large-Scale Supercomputers*, https://arxiv.org/abs/1904.11812
      - :index:`Apache Spark`, :index:`benchmarking`
 
-
    * - Sebastian Linde and |George-K-Thiruvathukal|, *Collaboration and Health Care Diagnostics: an Agent Based Model Simulation (2012)*, Computer Science: Faculty Publications & Other Works. Paper 63, http://ecommons.luc.edu/cs_facpubs/63
      - :index:`agent-based modeling`, :index:`ABM`, :index:`healthcare`
-
 
    * - Joseph P. Kaylor, Konstantin Läufer, and |George-K-Thiruvathukal|, *Naked Object File System (NOFS): A Framework to Expose an Object-Oriented Domain Model as a File System*, May 2010, https://ecommons.luc.edu/cs_facpubs/6/
      - :index:`naked objects`, :index:`NOFS`, :index:`FUSE`
 
-
    * - Konstantin Läufer, |George-K-Thiruvathukal|, and Tzilla Elrad, *Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience*, Enhancing the CS Curriculum with with Aspect-Oriented Software Development (AOSD) and Early Experience (2003), https://ecommons.luc.edu/cs_facpubs/4/
      - :index:`AOP`, :index:`aspect-oriented programming`, :index:`AOSD`, :index:`aspect-oriented software development`
-
 
    * - Läufer, Konstantin and |George-K-Thiruvathukal|, *The Extreme Software Development Series: An Open Curricular Framework for Applied Capstone Courses*, Retrieved from Loyola eCommons, Computer Science: Faculty Publications and Other Works, 2003, https://ecommons.luc.edu/cs_facpubs/5/
      - :index:`extreme software development series`, :index:`agile`, :index:`capstone courses`, :index:`curriculum`
 
-
    * - |George-K-Thiruvathukal| (editor), *Java Grande Report: Making Java Work for High-End Computing*, http://www.javagrande.org
      - :index:`Java Grande`, :index:`Java and High-End Computing`
-
 
    * - |George-K-Thiruvathukal| and Ufuk Verun, *Apt Compiler Toolkit*, http://github.com/gkthiruvathukal/apt
      - :index:`data structures`, :index:`C`, :index:`parsing tools`
