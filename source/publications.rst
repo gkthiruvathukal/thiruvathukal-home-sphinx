@@ -3,11 +3,9 @@ Publications
 
 .. |George-K-Thiruvathukal| replace:: **George K. Thiruvathukal**
 
-This should be a nearly complete list of publications.
+This should be a nearly complete list of publications. I do whatever I can to ensure open access or to archive preprints of accepted articles. Feel free to e-mail me if you cannot find something of interest.
 
-If for any reason you cannot easily find something, you can either view the :ref:`genindex` (by topic) or my `BePress Profile <https://works.bepress.com/gkthiruvathukal>`_. Virtually all of my work is open access, except for a couple of books.
-
-Please don't hesitate to contact me with any questions, especially if you are looking for a particular work.
+See also the `Computer Science Collection <https://ecommons.luc.edu/cs_facpubs/>` or `my BePress Profile <https://works.bepress.com/gkthiruvathukal>`_, which is sometimes a bit more current than this list, which I only update quarterly.
 
 Books
 ~~~~~
@@ -49,6 +47,11 @@ Conference Papers
 .. list-table::
    :widths: 25 15
 
+   * - Jack West, Neil Klingensmith, and |George-K-Thiruvathukal|, FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing, https://ecommons.luc.edu/cs_facpubs/243/
+     - :index:`systems` :index:`fog networks` :index:`caching`
+
+   * - Xiao Hu, Haobo Wang, Anirudh Vegesana, Somesh Dube, Kaiwen Yu, Gore Kao, Shuo-Han Chen, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Ming Yin, Crowdsourcing Detection of Sampling Biases in Image Datasets, The Web Conference 2020, https://ecommons.luc.edu/cs_facpubs/244/
+     - :index:`crowdsourcing` :index:`computer vision` :index:`visual data sets`
 
    * - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung, Abhinav Goel, Yung-Hsiang Lu, |George-K-Thiruvathukal|, Camera Placement Meeting Restrictions of Computer Vision, Proceedings of IEEE International Conference on Image Processing 2020, https://ecommons.luc.edu/cs_facpubs/250/
      - :index:`computer vision`
