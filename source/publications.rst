@@ -47,6 +47,9 @@ Conference Papers
 .. list-table::
    :widths: 25 15
 
+   * - Sara Aghajanzadeh, Roopasree Naidu, Shuo-Han Chen, Caleb Tung, Abhinav Goel, Yung-Hsiang Lu, George K. Thiruvathukal, Camera Placement Meeting Restrictions of Computer Vision, Proceedings of IEEE International Conference on Image Processing 2020, https://ecommons.luc.edu/cs_facpubs/250/
+     - :index:`computer vision` :index:`cameras` :index:`algorithms`
+
    * - Jack West, Neil Klingensmith, and |George-K-Thiruvathukal|, FLIC: A Distributed Fog Cache for City-Scale Applications, Proceedings of 2020 IEEE International Conference on Fog Computing, https://ecommons.luc.edu/cs_facpubs/243/
      - :index:`systems` :index:`fog networks` :index:`caching`
 
